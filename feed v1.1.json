@@ -52,13 +52,28 @@
           "props": {
             "uid": "26a08f5b-0352-4864-bce7-d10c5d8dec63",
             "discs": [
-              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Tombi%21%20%28Europe%29%20%28En%2CFr%2CDe%2CIt%2CNl%29%20%28Rev%201%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Tombi%21%20%28Europe%29%20%28En%2CEs%2CPt%2CSv%2CDa%29.chd0%28Rev%201%29.chd"
             ],
             "skipBios": true
           },
           "type": "psx",
           "title": "Tombi!",
           "description": "Siete \"Cerdiablos\" usan poderes mágicos para transformar el continente en un extraño territorio. Los subalternos de los Cerdiablos, los Cerdos Koma, roban una gran cantidad de oro y a Tombi le roban el brazalete de su abuelo. La misión de Tombi es liberar las partes malditas del continente y derrotar a los Cerdiablos para recuperar su brazalete",
+          "thumbnail": "https://images.squarespace-cdn.com/content/v1/574bec3527d4bdfe229ea099/1536030576120-CX02CVN1PNZVUQG8WL0A/tombi.png",
+          "background": "https://upload.wikimedia.org/wikipedia/it/6/64/Tombi.png",
+          "added": 1707253994697
+        },
+        {
+          "props": {
+            "uid": "26a08f5b-0352-4864-bce7-d10c5d8dec63",
+            "discs": [
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Theme%20Park%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Theme Park World",
+          "description": "Sin descripción de momento",
           "thumbnail": "https://images.squarespace-cdn.com/content/v1/574bec3527d4bdfe229ea099/1536030576120-CX02CVN1PNZVUQG8WL0A/tombi.png",
           "background": "https://upload.wikimedia.org/wikipedia/it/6/64/Tombi.png",
           "added": 1707253994697
@@ -356,6 +371,22 @@
       "background": "https://www.gamebyte.com/wp-content/uploads/2018/01/ps1.jpg",
       "backgroundPixelated": true
     },
+    {
+          "props": {
+            "uid": "f21a0521-b92a-4512-996d-720568d58b9e",
+            "discs": [
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Tekken%203%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Tekken 3",
+          "description": "descripción nuevo juego",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Crash%20Bandicoot%203%20-%20Warped%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Crash%20Bandicoot%203%20-%20Warped%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1707253114780
+        },
     {
       "title": "GBA",
       "longTitle": "Gameboy Advance",
