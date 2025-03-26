@@ -328,7 +328,7 @@
             "skipBios": true
           },
           "type": "psx",
-          "title": "Gex 3 - Deep Cover Gecko",
+          "title": "Gex deep cover",
           "description": "¿Un lagarto detective privado? \nMira, yo lo dejo ya... ¿Qué se fumaron el día que se les ocurrió esta idea?\n¿Y la chica de la portada? \"ey mira mamá! Salgo en la portada de un juego detrás de un lagarto detective, Y tu pensabas que nunca llegaría a nada!\"\n\nNo, en serio, el juego es bastante bueno.",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/79/Gex_3_box.jpg",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gex%203%20-%20Deep%20Cover%20Gecko%20(USA).png",
@@ -339,12 +339,12 @@
           "props": {
             "uid": "35e9be8a-5308-428f-b9d6-50e5df076489",
             "discs": [
-              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/ISS%20Pro%20Evolution%20%28Europe%29%20%28Es%2CIt%29.chd"
+              "https://dl.coolrom.com.au/dl/39719/B-yoAWQGxQGpW0NQ7LjdxA/1742957748/"
             ],
             "skipBios": true
           },
           "type": "psx",
-          "title": "ISS Pro Evolution",
+          "title": "otro tekken 3",
           "description": "Si, exacto, es justo lo que estais pensando:\nTe traemos ISS Pro evolution y no FIFA, y esto se debe a que ISS Pro es infinitamente mejor que el FIFA, pero aun no estas preparado para este debate.\n\nDisfruta de\nEL \nMEJOR\nJUEGO\nDE FURBOL\nDE 1999",
           "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bb/Issproevo.jpg",
           "background": "https://nadiealmando.com/wp-content/uploads/2022/10/PES_11zon.jpg",
