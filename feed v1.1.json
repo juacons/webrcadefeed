@@ -6,9 +6,9 @@
   "background": "https://www.dropbox.com/scl/fi/4xrfbxf526mcx0sh76dnr/OIG-3.jpeg?rlkey=4125ue40v16ytlfiiyv7pvu1q&dl=1",
   "props": {
     "psx_bios": [
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5500.bin",
+      "https://psx.arthus.net/roms/bios/SCPH5500.BIN",
       "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5501.bin",
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5502.bin"
+      "https://psx.arthus.net/roms/bios/SCPH5502.BIN"
     ]
   },
   "categories": [
