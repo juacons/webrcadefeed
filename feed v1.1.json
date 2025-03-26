@@ -6,9 +6,9 @@
   "background": "https://www.dropbox.com/scl/fi/4xrfbxf526mcx0sh76dnr/OIG-3.jpeg?rlkey=4125ue40v16ytlfiiyv7pvu1q&dl=1",
   "props": {
     "psx_bios": [
-      "https://psx.arthus.net/roms/bios/SCPH-5500.BIN",
+      "https://psx.arthus.net/roms/bios/SCPH5500.BIN",
       "https://psx.arthus.net/roms/bios/SCPH-5501.BIN",
-      "https://psx.arthus.net/roms/bios/SCPH-5502.BIN"
+      "https://psx.arthus.net/roms/bios/SCPH5502.BIN"
     ]
   },
   "categories": [
