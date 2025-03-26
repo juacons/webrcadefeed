@@ -7,7 +7,7 @@
   "props": {
     "psx_bios": [
       "https://psx.arthus.net/roms/bios/SCPH5500.BIN",
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5501.bin",
+      "https://psx.arthus.net/roms/bios/SCPH-5501.BIN",
       "https://psx.arthus.net/roms/bios/SCPH5502.BIN"
     ]
   },
