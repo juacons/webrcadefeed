@@ -365,13 +365,8 @@
           "background": "https://nadiealmando.com/wp-content/uploads/2022/10/PES_11zon.jpg",
           "backgroundPixelated": true,
           "added": 1707260858339
-        }
-      ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png",
-      "background": "https://www.gamebyte.com/wp-content/uploads/2018/01/ps1.jpg",
-      "backgroundPixelated": true
-    },
-    {
+        },
+        {
           "props": {
             "uid": "f21a0521-b92a-4512-996d-720568d58b9e",
             "discs": [
