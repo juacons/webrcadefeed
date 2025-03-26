@@ -82,7 +82,7 @@
           "props": {
             "uid": "bbfd2784-0ec1-43dd-8445-60518cc09e01",
             "discs": [
-              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Tomb%20Raider%20%28Europe%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Tomb%20Raider%20%28Europe%29.chd"
             ],
             "skipBios": true
           },
@@ -210,13 +210,13 @@
           "props": {
             "uid": "e17a7a4b-b7c3-4fa2-b70f-18ce1974eb18",
             "discs": [
-              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Cool%20Boarders%20%28Europe%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Cool%20Boarders%202%20%28Europe%29.chd"
             ],
             "skipBios": true
           },
           "type": "psx",
-          "title": "Cool Boarders",
-          "description": "Primer juego de la saga de snowboard que marcó una época, seas aficionado o no a este deporte de nieve, las carreras de cool boarders no te dejaran indiferente!",
+          "title": "Cool Boarders 2",
+          "description": "Segundo juego de la saga de snowboard que marcó una época, seas aficionado o no a este deporte de nieve, las carreras de cool boarders no te dejaran indiferente!",
           "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Cool%20Boarders%20(Europe).png",
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Cool%20Boarders%20(Europe).png",
           "backgroundPixelated": true,
@@ -258,7 +258,7 @@
           "props": {
             "uid": "27adbaf2-1548-4f88-b92b-0c1262528461",
             "discs": [
-              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Disney%27s%20Tarzan%20%28Europe%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Disney%27s%20Tarzan%20%28Europe%29.chd"
             ],
             "skipBios": true
           },
@@ -274,7 +274,7 @@
           "props": {
             "uid": "c0e78047-e851-4cf9-9a2a-5c4be3b393d4",
             "discs": [
-              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Doom%20%28Europe%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Doom%20%28Europe%29.chd"
             ],
             "skipBios": true
           },
@@ -290,7 +290,7 @@
           "props": {
             "uid": "5f7f2711-abf8-4175-b224-0f3fc07e461a",
             "discs": [
-              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Dragon%20Ball%20-%20Final%20Bout%20%28Europe%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Dragon%20Ball%20-%20Final%20Bout%20%28Europe%29.chd"
             ],
             "skipBios": true
           },
@@ -322,7 +322,7 @@
           "props": {
             "uid": "bea78ff7-b1f8-456b-a4c2-27e81e352ea1",
             "discs": [
-              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Fighting%20Force%202%20%28Europe%29%20%28Es%2CIt%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Fighting%20Force%202%20%28Europe%29%20%28Es%2CIt%29.chd"
             ],
             "skipBios": true
           },
@@ -338,7 +338,7 @@
           "props": {
             "uid": "9849bb00-4a11-4584-b19d-8b6dccbdac84",
             "discs": [
-              "https://archive.org/download/chd_psx_eur/CHD-PSX-EUR/Gex%20-%20Deep%20Cover%20Gecko%20%28Europe%29%20%28En%2CEs%2CIt%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Gex%20-%20Deep%20Cover%20Gecko%20%28Europe%29%20%28En%2CEs%2CIt%29.chd"
             ],
             "skipBios": true
           },
@@ -386,7 +386,7 @@
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Crash%20Bandicoot%203%20-%20Warped%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
           "backgroundPixelated": true,
           "added": 1707253114780
-        },
+    },
     {
       "title": "GBA",
       "longTitle": "Gameboy Advance",
