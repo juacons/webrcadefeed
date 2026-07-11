@@ -1,30 +1,625 @@
 {
   "title": "LordJuacons",
   "longTitle": "El Feed De LordJuacons",
-  "description": "Feed con juegos en su mayoría en español o con traducciones no oficiales.",
+  "description": "Tu feed favorito para webRcade con juegos en su mayoría en español o con traducciones no oficiales!\nSigueme en mis redes para estar al tanto de actualizaciones, o para pedir algun juego que no esté en la lista!\n\nTwitch: LordJuacons\nYoutube: JuaconsGamer\n",
   "thumbnail": "https://www.dropbox.com/scl/fi/5adra9ipphhoe2e4dxaby/OIG-6.jpeg?rlkey=giylzkuocoyspjveg24sjd8vp&dl=1",
   "background": "https://www.dropbox.com/scl/fi/4xrfbxf526mcx0sh76dnr/OIG-3.jpeg?rlkey=4125ue40v16ytlfiiyv7pvu1q&dl=1",
   "props": {
     "psx_bios": [
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5500.bin",
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5501.bin",
-      "https://archive.org/download/PlayStationBIOSFilesNAEUJP/scph5502.bin"
+      "https://www.dropbox.com/scl/fi/fm47ypkxcf0xpuhmspy8w/SCPH-5500.bin?rlkey=tc5utri5gshr72oykyzf9v498&st=pcv6bh63&dl=0",
+      "https://www.dropbox.com/scl/fi/dvrgav51n5wyd8sps3dng/scph5501.bin?rlkey=0wypo0774qkpjvsdvguexcc7z&st=6kte73qg&dl=0",
+      "https://www.dropbox.com/scl/fi/mei4snpeeblbfp77qv9n9/SCPH-5502.bin?rlkey=riu2xwcybldcqqby6wygbtstk&st=5wlhsse4&dl=0"
     ]
   },
   "categories": [
     {
       "title": "playstation",
       "longTitle": "",
-      "items": [],
+      "items": [
+        {
+          "props": {
+            "uid": "d1fae19e-f094-4d5c-b41c-596f994e99a0",
+            "discs": [
+              "https://archive.org/download/psxchda/Alundra%20%28Spain%29.chdCHD-PSX-EUR/Alundra%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Alundra (Eu eng)",
+          "description": "Alundra realiza un viaje para salvar a la aldea de Inoa de las garras del malvado Melzas, que penetra en las mentes de las personas mientras éstas duermen. Combinando la aventura gráfica y el arcade, consta de mucha acción y puzles complicados.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Alundra%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Alundra%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707255294107
+        },
+        {
+          "props": {
+            "uid": "1f31342e-6820-4065-9aab-f8af6bd9ae49",
+            "discs": [
+              "https://archive.org/download/psxchda/Ape%20Escape%20%28Europe%29.chd-EUR/Ape%20Escape%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Ape Escape",
+          "description": "Un monete llamado Specter encuentra un casco que lo hace super inteligente (a la vez que super malvado), y ha repartido unos cascos a sus compis monetes para sembrar el caos.\nMotivo suficiente y de sobra para que Spike se ponga a dar caza a dichos monos con una red estilo cazamariposas, desde greenpeace deben estar frotándose las manos...",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Ape%20Escape%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Ape%20Escape%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1743035082865
+        },
+        {
+          "props": {
+            "uid": "15956c6e-196b-477b-9143-dc863ff51ab2",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-b/Breath%20of%20Fire%20III%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Breath of Fire III",
+          "description": "Ryu, un joven con la misteriosa capacidad de transformarse en poderosos dragones, debe descubrir la verdad detrás de sus orígenes, así como localizar a sus amigos perdidos y a su familia sustituta, Rei y Teepo. La historia del juego se presenta en dos partes: la primera mitad presenta a Ryu como un niño, y la otra como un adulto",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Breath%20of%20Fire%20III%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Breath%20of%20Fire%20III%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707256045184
+        },
+        {
+          "props": {
+            "uid": "9ab2aa7c-7dd9-4efa-bf6e-dddd4ddb4803",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-b/Bugs%20Bunny%20-%20Lost%20in%20Time%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Bugs Bunny - Lost in Time",
+          "description": "Bugs Bunny está perdido en el tiempo y deberá ir a distintas épocas donde coleccionar símbolos para retornar al presente. Debemos ayudar a Bugs a través de 5 diferentes eras en el tiempo para regresar al presente!",
+          "thumbnail": "https://www.todoconsolas.com/87905-medium_default/bugs_bunny_perdido_en_el_tiempo_psx_sp_po2944.jpg",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Bugs%20Bunny%20-%20Lost%20in%20Time%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
+          "backgroundPixelated": true,
+          "added": 1707256322134
+        },
+        {
+          "props": {
+            "uid": "3918212c-af1f-4b65-823e-eaa881ed7f80",
+            "skipBios": true,
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-b/Bust-A-Move%204%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Bust-A-Move 4",
+          "description": "Dragones y pompas de colores, con esta descripcion no podrias esperar mucho, pero la realidad es que estamos ante uno de los juegos de puzzle y porque no, estrategia, mas famoso de todos los tiempos (Obviamente sin llegar al grandisimo tetris, que os conozco...)",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Bust-A-Move%204%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Bust-A-Move%204%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1743035399880
+        },
+        {
+          "props": {
+            "uid": "191cab3d-3840-4e1e-8346-a02451a13aa6",
+            "skipBios": true,
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/C-12%20-%20Final%20Resistance%20%28Europe%29%20%28Es%2CIt%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "C-12 - Final Resistance",
+          "description": "Los aliens han invadido la tierra y....\n....y eso es todo, tu ya sabes como se soluciona una invasión alienígena, coge la escopeta y vuélvete crazy!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/C-12%20-%20Final%20Resistance%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/C-12%20-%20Final%20Resistance%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1743035548979
+        },
+        {
+          "props": {
+            "uid": "f096f271-136f-41bf-ab81-697e5778e4e9",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Carmageddon%20%28Europe%29%20%28En%2CFr%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Carmageddon",
+          "description": "Para ganar el Carmageddon se deben completar todas las carreras, y para completarlas se puedes optar de 3 maneras distintas:\n\n- Atropellar a todos los peatones.\n- Completar los Checkpoints.\n- Destruir los coches restantes.\n\nTu decides como ganar, aunque... (guiño, guiño)",
+          "thumbnail": "https://i.ytimg.com/vi/ng1qoVLDszg/sddefault.jpg",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Carmageddon%20(Europe)%20(En%2CFr%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1707256631989
+        },
+        {
+          "props": {
+            "uid": "bdc20ca7-914a-4f8d-9ff7-08e542462d70",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Chocobo%20Racing%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Chocobo Racing",
+          "description": "Controla personajes del mundo de Chocobo's Dungeon (todos los iniciales más algunos desbloqueables como Bahamut y Cid) y Final Fantasy (todos ellos secretos como Squall y Cloud). Algunos jugadores lo hacen con karts, otros volando, conduciendo scooters, a pie... Se pueden elegir 5 modos de juego: Modo Historia, Modo Versus, Grand Prix, Carrera de Relevos, y Time Attack. En el Modo Historia, se juega un cuento narrado por Cid, en forma de un libro con figuras que se levantan al abrirlo. Aquellos que completen el modo historia son capaces de crear su propio corredor, así como desbloquear otros personajes secretos.",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/4/40/Cracingbox.jpg",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Chocobo%20Racing%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707256889476
+        },
+        {
+          "props": {
+            "uid": "89e13bda-d095-47df-9073-1fe6a11fb99e",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Colin%20McRae%20Rally%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Colin McRae Rally",
+          "description": "Colin McRae Rally es un juego de simulación de rally, que presenta los autos inscritos y los rallyes del Campeonato Mundial de Rally 1998. Hay tres modos de dificultad en el juego, y cada modo ofrece coches diferentes: el modo Novato ofrece coches de clase FWD F2, como el SEAT Ibiza F2 Kit Car, el modo intermedio ofrece 4WD World Rally Car coches de clase, como el Subaru Impreza WRC, y el modo Experto ofrece la posibilidad de desbloquear coches de bonificación, como Ford Escort MKII, Lancia Delta Integrale , Audi Quattro S1 y Ford RS200. Hay un total de 12 coches.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Colin%20McRae%20Rally%20(Europe)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Colin%20McRae%20Rally%20(Europe)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1707257254698
+        },
+        {
+          "props": {
+            "uid": "e17a7a4b-b7c3-4fa2-b70f-18ce1974eb18",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Cool%20Boarders%202%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Cool Boarders 2",
+          "description": "Segundo juego de la saga de snowboard que marcó una época, seas aficionado o no a este deporte de nieve, las carreras de cool boarders no te dejaran indiferente!\n",
+          "thumbnail": "https://i0.wp.com/superchartisland.com/wp-content/uploads/2020/04/cb2title-24.jpg?fit=624%2C424&ssl=1",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Cool%20Boarders%202%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707257526777
+        },
+        {
+          "props": {
+            "uid": "cea8f842-76c6-4985-9a11-b94edb639f01",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Crash%20Bandicoot%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Crash Bandicoot",
+          "description": "Un koala vigoréxico, un perro psicotico, una rata mafiosa...\nTodos los locos experimentos con animales del Dr. Neo Cortex y el Dr. Nitros Brio, iban viento en popa, hasta que un experimento con un bandicut sale mal, y el espécimen escapa...",
+          "thumbnail": "https://i.ytimg.com/vi/10Suh8p38Ls/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCveb_4ABWuHKJ3Sb3L1j3Kw_owsQ",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Crash%20Bandicoot%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1743112169810
+        },
+        {
+          "props": {
+            "uid": "37f3a96e-6a39-4f5b-912f-be386d07b392",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Crash Bandicoot 2 - Cortex Strikes Back",
+          "description": "Cortex contraataca en esta divertida y emocionante segunda parte de Crash Bandicoot.\nAyuda a Crash, Coco y Aku-Aku a arruinar una vez mas los planes del delirante Dr. Neo Cortex!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Crash%20Bandicoot%202%20-%20Cortex%20Strikes%20Back%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1707252493424
+        },
+        {
+          "props": {
+            "uid": "f21a0521-b92a-4512-996d-720568d58b9e",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Crash%20Bandicoot%203%20-%20Warped%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Crash Bandicoot 3 - Warped",
+          "description": "Cuando las ruinas de la estación espacial del Doctor Neo Cortex se estrellan en la Tierra, desatan una entidad malvada conocida como Uka Uka, el malvado hermano gemelo de Aku Aku que se une a Cortex y al Doctor Nefarious Tropy, obsesionado con el tiempo, mientras planean para reunir poderosos cristales que yacen dispersos a través del tiempo y usar su energía para esclavizar a la Tierra. El título sigue a los personajes principales, Crash y Coco Bandicoot, mientras viajan en el tiempo y evitan que los villanos recolecten los cristales recogiéndolos ellos mismos.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Crash%20Bandicoot%203%20-%20Warped%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Crash%20Bandicoot%203%20-%20Warped%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1707253114780
+        },
+        {
+          "props": {
+            "uid": "501ed5c0-e427-4e5a-a968-06d96ebd21b0",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Crash%20Bash%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true,
+            "multitap": true
+          },
+          "type": "psx",
+          "title": "Crash Bash",
+          "description": "Una disputa entre aku-aku y uka-uka, nos embarca en una serie de locos y divertidos mini juegos para determinar quien es mas fuerte: El bien, o el mal.\nY si te lo estas preguntando, si, puedes jugar en multijugador has 4 jugadores, os he activado el multitap btches!\n",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Crash%20Bash%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Crash%20Bash%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1707257904400
+        },
+        {
+          "props": {
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/CTR%20-%20Crash%20Team%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.chd"
+            ],
+            "sbi": [],
+            "uid": "95b0c401-fd1d-4fb2-90f1-b9d458ecd9e2",
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "CTR - Crash Team Racing",
+          "description": "Mucha gente le llama \"la copia de mario kart\", otros dicen que es peor...\nYo digo:\nCariñas, teneis la realidad distorsionada, id a jugar mario kart 64, volved a jugar CTR, ¿ya? Efectivamente, MK 64 no es la maravilla que recordabamos...",
+          "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/1747661823501828096/pu/img/LNDd1KGZhBkNdJxb.jpg:large",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/CTR%20-%20Crash%20Team%20Racing%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CNl).png",
+          "backgroundPixelated": true,
+          "added": 1743110924583
+        },
+        {
+          "props": {
+            "uid": "ca9eb76a-b6e7-45e2-9959-739efc8d2a8d",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Dave%20Mirra%20Freestyle%20BMX%20-%20Maximum%20Remix%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Dave Mirra Freestyle BMX - Maximum Remix",
+          "description": "Siguiendo los pasos de la serie Tony Hawk's Pro Skater, y dejando la patineta a un lado, ahora pondremos nuestro culo en el sillín de una BMX de la mano de Dave Mirra.\nSaltos, grindeos, acrobacias... y muchas caidas!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Dave%20Mirra%20Freestyle%20BMX%20-%20Maximum%20Remix%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Dave%20Mirra%20Freestyle%20BMX%20-%20Maximum%20Remix%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707258214303
+        },
+        {
+          "props": {
+            "uid": "afc5b7f9-e280-4a9e-befe-a965bfbb8a6e",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Destrega%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Destrega",
+          "description": "Me parece increible lo desapercibido que pasó este juego.\nUn juego de lucha en el que podías correr por todo un escenario 3D, lanzando ataques al mas puro estilo Dragon ball, y una extraña física en los pechotes que hacia que girasen como flanes mareados...",
+          "thumbnail": "https://github.com/xlenore/psx-covers/blob/main/covers/3d/SCES-01768.png?raw=true",
+          "background": "https://kresnik258gaming.wordpress.com/wp-content/uploads/2020/05/2020-05-28-122928.jpg",
+          "added": 1743113132878
+        },
+        {
+          "props": {
+            "uid": "27adbaf2-1548-4f88-b92b-0c1262528461",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Disney%20Tarzan%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Disney's Tarzan",
+          "description": "En los 2000, toda buena película de Disney que se precie, tenia su videojuego en PlayStation, y Tarzán no iba a ser menos!\nUn plataformas bastante querido por los usuarios, los cuales lo proclaman junto a Hércules y El rey león, uno de los mejores videojuegos basados en películas Disney.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney's%20Tarzan%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney's%20Tarzan%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707258481845
+        },
+        {
+          "props": {
+            "uid": "c0e78047-e851-4cf9-9a2a-5c4be3b393d4",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Doom%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Doom",
+          "description": "Se ha emulado en el robot de cocina del Lidl, en un Porsche, dentro de minecraft, en una calculadora, e incluso en el bloc de notas! \nAsí que creo que poco tengo que añadir sobre este shooter intergeneracional, disfruta!\nNos vemos cuando lo ejecuten en una tostadora!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Doom%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Doom%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707258989028
+        },
+        {
+          "props": {
+            "uid": "5f7f2711-abf8-4175-b224-0f3fc07e461a",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Dragon%20Ball%20-%20Final%20Bout%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Dragon Ball - Final Bout",
+          "description": "Basado en la saga GT de Dragon Ball, este juego de lucha... No se me ocurre que mas decir, a la m*erda, dale al play y: \"kame hame ha!\" (u Onda vital, como mas te guste...)",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Dragon%20Ball%20-%20Final%20Bout%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Dragon%20Ball%20-%20Final%20Bout%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707259241890
+        },
+        {
+          "props": {
+            "uid": "216f1f1d-86c5-4298-aa90-f5284d09627a",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Dragon%20Ball%20Z%20-%20Ultimate%20Battle%2022%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Dragon Ball Z - Ultimate Battle 22",
+          "description": "¿El mejor juego de Dragon ball Z para playstation?\nYO DIGO, SI.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Dragon%20Ball%20Z%20-%20Ultimate%20Battle%2022%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Dragon%20Ball%20Z%20-%20Ultimate%20Battle%2022%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1743113321860
+        },
+        {
+          "props": {
+            "uid": "24df2e86-b62e-430e-8b06-2d9e8cc30c47",
+            "skipBios": true,
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-e/E.T.%20the%20Extra-Terrestrial%20-%20Interplanetary%20Mission%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "E.T. the Extra-Terrestrial - Interplanetary Mission",
+          "description": "Aprovechando su reestreno en cines en 2002, fue lanzado E.T. the Extra-Terrestrial - Interplanetary Mission, un juego porque no decirlo, bastante cutrecillo y que debías ser bastante rarito para que te gustase, las cosas como son.\n\nMi amigo lo tenia... Mi amigo era un rarito....\n¿Y tu, lo tenias?",
+          "thumbnail": "data:image/jpeg;base64,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",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/E.T.%20the%20Extra-Terrestrial%20-%20Interplanetary%20Mission%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1707259567153
+        },
+        {
+          "props": {
+            "uid": "bea78ff7-b1f8-456b-a4c2-27e81e352ea1",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-f/Fighting%20Force%202%20%28Europe%29%20%28Es%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Fighting Force 2",
+          "description": "Fighting Force 2 es la secuela del juego original Fighting Force que salió en 1997. Fue uno de los primeros del género Yo contra el barrio (os juro que lo pone tal cual en la wikipedia) en dejar los gráficos 2D y pasar a la graficación (esta palabra ni existe, no me j*das...) en 3D.\nA mi en lo personal me gustó mucho en su época la demo, pero nunca llegué a jugar la versión completa.\nAsí que ya sabéis, vosotros contra el barrio, btches!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Fighting%20Force%202%20(Europe)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Fighting%20Force%202%20(Europe)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1707259914519
+        },
+        {
+          "props": {
+            "uid": "9849bb00-4a11-4584-b19d-8b6dccbdac84",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-g/Gex%20-%20Deep%20Cover%20Gecko%20%28Europe%29%20%28En%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Gex deep cover",
+          "description": "¿Un lagarto detective privado? \nMira, yo lo dejo ya... ¿Qué se fumaron el día que se les ocurrió esta idea?\n¿Y la chica de la portada? \"ey mira mamá! Salgo en la portada de un juego detrás de un lagarto detective, Y tu pensabas que nunca llegaría a nada!\"\n\nNo, en serio, el juego es bastante bueno.",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/7/79/Gex_3_box.jpg",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gex%203%20-%20Deep%20Cover%20Gecko%20(USA).png",
+          "backgroundPixelated": true,
+          "added": 1707260424669
+        },
+        {
+          "props": {
+            "uid": "4180c68a-57c5-4504-afee-76723b6bd473",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-g/Grand%20Theft%20Auto%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Grand Theft Auto 2",
+          "description": "Aunque no lo creais, GTA empezo con vista desde arriba.\nLo que si se ha mantenido a lo largo de la saga es lo importante:\n-Drogas\n-Violencia\n-Atropellos\n-Destruccion\n...Y los niveles de se busca!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Grand%20Theft%20Auto%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Grand%20Theft%20Auto%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1743115555124
+        },
+        {
+          "props": {
+            "uid": "35e9be8a-5308-428f-b9d6-50e5df076489",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-i/ISS%20Pro%20Evolution%20%28Europe%29%20%28Es%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "ISS Pro Evolution",
+          "description": "Si, exacto, es justo lo que estais pensando:\nTe traemos ISS Pro evolution y no FIFA, y esto se debe a que ISS Pro es infinitamente mejor que el FIFA, pero aun no estas preparado para este debate.\n\nDisfruta de\nEL \nMEJOR\nJUEGO\nDE FURBOL\nDE 1999",
+          "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/bb/Issproevo.jpg",
+          "background": "https://nadiealmando.com/wp-content/uploads/2022/10/PES_11zon.jpg",
+          "backgroundPixelated": true,
+          "added": 1707260858339
+        },
+        {
+          "props": {
+            "uid": "efa42ca8-1036-4f0b-9202-41a6a8ded7d4",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-k/Kula%20World%20%28Europe%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Kula World",
+          "description": "Spoiler: Vas a marearte. ",
+          "thumbnail": "https://i.ytimg.com/vi/7nKDO5Ir8Ls/maxresdefault.jpg",
+          "background": "https://kresnik258gaming.wordpress.com/wp-content/uploads/2022/02/184a3a90c10346bd23d3a20d13356dfa.jpg?w=1200",
+          "added": 1743115348999
+        },
+        {
+          "props": {
+            "uid": "b2f7ee5c-0534-4a7a-93ac-0bc3c07a7250",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/MediEvil%20%28Spain%29.chd"
+            ],
+            "sbi": [],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "MediEvil",
+          "description": "Te despiertas, estas muerto y no eres mas que un amasijo de huesos con una armadura dentro de una tumba...\n¿Que es lo que se te pasaria por la mente? Exacto...\n¡¡VENGANZA!!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/MediEvil%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/MediEvil%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1743033256717
+        },
+        {
+          "props": {
+            "uid": "42d01984-8295-4c78-a350-3b72fcb333aa",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-o/Oddworld%20-%20Abe%27s%20Oddysee%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Oddworld - Abe's Oddysee",
+          "description": "Un día vas tranquilo por tu trabajo, y tu alma maruja te lleva a escuchar una conversación de tu jefe, donde descubres que ante una gran falta de recursos, van a empezar a usar a tu especie como carne para sus nuevos productos alimenticios...\nEn realidad seguramente pillarías puerta a la primera de cambio, por suerte para los demás mudokons, Abe ha decidido rescatarlos a todos antes de irse...",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Oddworld%20-%20Abe's%20Oddysee%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Oddworld%20-%20Abe's%20Oddysee%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1743115175426
+        },
+        {
+          "props": {
+            "uid": "d1b5c01a-6b91-4ab8-8781-edc8ab7b0a0e",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-o/Overboard%21%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Overboard!",
+          "description": "Reconócelo, lo jugaste en la primera demo de playstation, pero nunca lo tuviste completo.\nNo te preocupes, ya estoy aquí para cerrar ese ciclo.\nARRGGG GRUMETEE!",
+          "thumbnail": "https://i.ytimg.com/vi/Uv6Hv50YVYg/maxresdefault.jpg",
+          "background": "https://camo.githubusercontent.com/b387da17ad127e5181d1912117917cbcd9882850819a336744435174669f18f4/687474703a2f2f3139392e3130312e39382e3234322f6d656469612f696d616765732f35323632302d4f766572626f617264215f253238452532392d313436313534313133332e6a7067",
+          "added": 1743114228824
+        },
+        {
+          "props": {
+            "uid": "589d6d59-c346-4a74-bec2-d7fb6aca02b6",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-p/Populous%20-%20The%20Beginning%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Populous - The Beginning",
+          "description": "aaaah, populous....\nEl placentero y relajante arte de maltratar a tus súbditos o enemigos.\n¿Que te miran mal? Bola de fuego.\n¿Han osado entrar a tus tierras? Invoca un rayo hasta sus cabezas.\n¿que simplemente te aburres? Envíales un tornado que destroce lo poco que tengan.\nEres una diosa, que nadie te bufe.",
+          "thumbnail": "https://i0.wp.com/uploads.freegogpcgames.com/image/Populous-The-Beginning.jpg?resize=450%2C253&ssl=1",
+          "background": "https://i.ytimg.com/vi/7eqvOsZlEcc/maxresdefault.jpg",
+          "added": 1743114761816
+        },
+        {
+          "props": {
+            "discs": [
+              "https://archive.org/download/twisted-metal-4-usa/Tekken%203%20%28Europe%29.chd"
+            ],
+            "sbi": [],
+            "uid": "37edf23f-1579-4b82-bb12-7ab60402edb2",
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Tekken 3",
+          "description": "Para muchos, el que marcó un antes y un después en los juegos de lucha. \nA la tercera va la vencida, y tekken 3 así lo demuestra, uno de sus personajes es un mini dinosaurio que se tira pedos, ósea, ¿Qué mas puedes pedir?",
+          "thumbnail": "https://github.com/xlenore/psx-covers/blob/main/covers/3d/SCED-01146.png?raw=true",
+          "background": "https://i.ytimg.com/vi/9qj5bk7cGsc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6AfXKly2qKRB59nnmGkmHfAvBaA",
+          "backgroundPixelated": true,
+          "added": 1743028775352
+        },
+        {
+          "props": {
+            "uid": "6338c622-f2e0-45f8-951b-607a0fa82b30",
+            "discs": [
+              "https://archive.org/download/twisted-metal-4-usa/Theme%20Hospital%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Theme Hospital",
+          "description": "Theme Hospital es un videojuego de simulación desarrollado por Bullfrog Productions y publicado por Electronic Arts en 1997, en el cual el jugador diseña y opera un hospital. Como la mayoría de los juegos de Bullfrog Theme Hospital está impregnado de un excéntrico sentido del humor. Este juego es el sucesor espiritual de Theme Park, un juego también producido por Bullfrog.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Theme%20Hospital%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Theme%20Hospital%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
+          "backgroundPixelated": true,
+          "added": 1707254486862
+        },
+        {
+          "props": {
+            "uid": "26a08f5b-0352-4864-bce7-d10c5d8dec63",
+            "discs": [
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Theme%20Park%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Theme Park World",
+          "description": "Para muchos fue el punto de partida en los juegos de simulación (para un servidor incluido).\nCuando te quieres dar cuenta, estas en una debacle de montañas rusas en primera persona, y limpieza de vómitos (también en primera persona...)\n*El juego ofrece solo la versión parque de prueba, pronto dispondremos de la versión completa.",
+          "thumbnail": "data:image/jpeg;base64,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",
+          "background": "https://m.media-amazon.com/images/M/MV5BNDFmY2FiODUtNTEwOC00MTBlLThiMjUtOTkzZGNjOGYzYWQ0XkEyXkFqcGc@._V1_QL75_UX388_.jpg",
+          "added": 1707253994697
+        },
+        {
+          "props": {
+            "uid": "bbfd2784-0ec1-43dd-8445-60518cc09e01",
+            "discs": [
+              "https://archive.org/download/twisted-metal-4-usa/Tomb%20Raider%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Tomb Raider",
+          "description": "En este juego se forjo la leyenda!\nLa primera aventura de Lara Croft, en su búsqueda por el mundo de los tres misteriosos artefactos de Scion.\nSpoiler: No, Lara desnuda y la escena de la ducha son leyendas urbanas, lo siento.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1707254357575
+        },
+        {
+          "props": {
+            "uid": "26a08f5b-0352-4864-bce7-d10c5d8dec63",
+            "discs": [
+              "https://archive.org/download/twisted-metal-4-usa/Tombi%21%20%28Europe%29%20%28En%2CEs%2CPt%2CSv%2CDa%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Tombi!",
+          "description": "Siete \"Cerdiablos\" usan poderes mágicos para transformar el continente en un extraño territorio. Los subalternos de los Cerdiablos, los Cerdos Koma, roban una gran cantidad de oro y a Tombi le roban el brazalete de su abuelo. La misión de Tombi es liberar las partes malditas del continente y derrotar a los Cerdiablos para recuperar su brazalete",
+          "thumbnail": "https://images.squarespace-cdn.com/content/v1/574bec3527d4bdfe229ea099/1536030576120-CX02CVN1PNZVUQG8WL0A/tombi.png",
+          "background": "https://upload.wikimedia.org/wikipedia/it/6/64/Tombi.png",
+          "added": 1707253994697
+        },
+        {
+          "props": {
+            "uid": "45237ae8-e0a9-4429-8ebf-4d828bbd6029",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-u-z/V2000%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "V2000",
+          "description": "Lo reconozco, este juego no lo conocéis ninguno, pero yo lo tengo en la cabeza desde que lo jugué en una demo allá por los 90.\nManejas una nave y debes ir salvando inocentes y destruyendo mutaciones a través de planetas en perfecto 3D",
+          "thumbnail": "https://i.ytimg.com/vi/rH9rbzjG9qI/maxresdefault.jpg",
+          "background": "https://i.ytimg.com/vi/9sL77YETmn8/maxresdefault.jpg",
+          "added": 1743113732590
+        }
+      ],
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png",
       "background": "https://www.gamebyte.com/wp-content/uploads/2018/01/ps1.jpg",
       "backgroundPixelated": true
     },
     {
+      "title": "Nintendo 64",
+      "thumbnail": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cfaac04b-38ee-4f3b-9b98-fe2d477531d4/d7fhf75-7bc4d4de-ff46-43ff-b884-4b87d0a1b020.png/v1/fill/w_1192,h_670,q_70,strp/n64_wallpaper_logo_by_wizkid49_d7fhf75-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2NmYWFjMDRiLTM4ZWUtNGYzYi05Yjk4LWZlMmQ0Nzc1MzFkNFwvZDdmaGY3NS03YmM0ZDRkZS1mZjQ2LTQzZmYtYjg4NC00Yjg3ZDBhMWIwMjAucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ._WVy-gUb7eFbkIPgYbxDGaMZASrh38zJF6yH8mWJ-rs",
+      "background": "https://i.etsystatic.com/11719466/r/il/820d09/3713153279/il_1080xN.3713153279_tki1.jpg",
+      "items": [],
+      "description": "La Emulación de N64 es experimental en webRcade de momento y es posible que encuentres fallos en la emulación. Iré añadiendo mas juegos poco a poco."
+    },
+    {
       "title": "GBA",
       "longTitle": "Gameboy Advance",
       "description": "Juegos en español de la sucesora de la portatil gameboy y Gameboy Color.",
-      "thumbnail": "https://www.dropbox.com/scl/fi/bf4576eelruqy12whnqqx/VisualBoyAdvance.png?rlkey=3gfdrpxellgmvg60hq4qe0b0x&dl=1",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/e/e2/VisualBoyAdvance.png",
       "background": "https://www.dropbox.com/scl/fi/m524khjslw3vtc2jtupzf/maxresdefault.jpg?rlkey=vjm5w3xen9ko3gr6kjpcsntb0&dl=1",
       "backgroundPixelated": true,
       "items": [
@@ -3814,8 +4409,9 @@
           },
           "added": 1707182717966
         }
-      ]
+      ],
+      "background": "https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif"
     }
   ],
-  "backgroundPixelated": true
+  "backgroundPixelated": false
 }
