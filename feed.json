@@ -50,6 +50,22 @@
         },
         {
           "props": {
+            "uid": "2b97c44e-8716-416d-a39b-35d0d2534294",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-b/Bloody%20Roar%202%20-%20Bringer%20of%20the%20New%20Age%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Bloody Roar II",
+          "description": "Bloody Roar II is a 3D fighting game of the Tekken, or more accurately, Fighting Vipers school of gameplay. The hook of the Bloody Roar series is that your combatants can transform into animalistic versions of themselves -- human-animal hybrids with a thirst for violence. During each round you can fight as a person or transform into a beast when your meter fills up. As an animal you'll have more moves at your disposal with which to destroy your opponent.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Bloody%20Roar%20II%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Bloody%20Roar%20II%20(USA).png",
+          "backgroundPixelated": true,
+          "added": 1783804072971
+        },
+        {
+          "props": {
             "uid": "15956c6e-196b-477b-9143-dc863ff51ab2",
             "discs": [
               "https://archive.org/download/psx-chd-roms-b/Breath%20of%20Fire%20III%20%28Europe%29.chd"
@@ -243,6 +259,38 @@
         },
         {
           "props": {
+            "uid": "af441644-52ff-4622-b1e4-0eb0c9676602",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Croc%20-%20Legend%20of%20the%20Gobbos%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Croc - Legend of the Gobbos",
+          "description": "All is not well in Croc's world.  His friends, the Gobbos, have been captured by the evil Baron Dante.  It is your mission in this 3D platformer to search through 42 different levels to save all of your friends before it's too late.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Croc%20-%20Legend%20of%20the%20Gobbos%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Croc%20-%20Legend%20of%20the%20Gobbos%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783804000365
+        },
+        {
+          "props": {
+            "uid": "924f4cb3-de5c-42b0-b452-86916933581b",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Croc%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Croc 2",
+          "description": "Croc is on a quest to find his parents. However, Baron Dante has kidnapped the Gobbos kings. Croc then turns his attention to rescue all of the Gobbos kings.\n\nYou travel across 48 levels in this free roaming 3D game. You have to beat all the levels in a village (except the secret level) to move on to the next one. In each village, (except the 4th village) are 5 regular levels, 2 bosses, and 1 secret level. Regular levels are levels where you just beat them and get certain items in them.\n\nBosses are levels where you go through one section then fight a monster at the end. Secret levels are levels where you collect the jigsaw piece. Once you collect the jigsaw piece in all 4 secret levels and defeat Baron Dante, Swap Meet Pete will take you to the lost levels.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Croc%202%20(Europe)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Croc%202%20(Europe)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1783804023892
+        },
+        {
+          "props": {
             "discs": [
               "https://archive.org/download/psx-chd-roms-c/CTR%20-%20Crash%20Team%20Racing%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.chd"
             ],
@@ -288,6 +336,85 @@
           "thumbnail": "https://github.com/xlenore/psx-covers/blob/main/covers/3d/SCES-01768.png?raw=true",
           "background": "https://kresnik258gaming.wordpress.com/wp-content/uploads/2020/05/2020-05-28-122928.jpg",
           "added": 1743113132878
+        },
+        {
+          "props": {
+            "uid": "4a2b9940-0903-4288-8775-8142c0845048",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Destrega%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Destrega",
+          "description": "Destrega is one of the first fighting games to focus more on long range attacks and use of interactive backgrounds than close-up fisticuffs.\n\nThe story revolves around a battle for control of relics left a millennia ago by the Strega - mysterious beings with benevolent gifts of powers to human beings.",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783803855192
+        },
+        {
+          "props": {
+            "uid": "c11f324b-72ae-4a74-9f6d-a2273701914f",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Dino%20Crisis%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Dino Crisis",
+          "description": "Three years ago a brilliant scientist disappeared while researching a new form of energy. The government that funded his research wrote the whole affair off as a loss, which made it all the more upsetting when reports of Dr. Kirk's good health and nearly finished research came in. A special forces team is sent to the doctor's private island laboratory to extract him and his research, but they are totally unprepared for some of the side effects of his developments. Side effects that come from 100 million years in the past.\n\nDino Crisis is a survival horror game that is very similar in both control and gameplay to its sister series, Resident Evil. As in that series, protagonist Regina will have limited supplies and ammo with which to fight deadly enemies while searching rooms for keys (some figurative, some literal) to open locked areas. Unlike Resident Evil games, Regina will find very few actual supplies laying around, and will instead find \"plugs\" that are used to open caches of emergency supplies located around the complex. There are only enough plugs to open some of these caches, however, so care must be taken to decide what items are really needed. In another change from Resident Evil, the game is rendered in 3D, allowing the camera to rotate or pan, although camera angles are still out of the control of the player. Even the dumbest dinosaur is smarter than the undead, and enemies can chase and disarm Regina, and even occasionally follow her through doors.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Dino%20Crisis%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Dino%20Crisis%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783803795017
+        },
+        {
+          "props": {
+            "uid": "87b8a7b3-b43b-4b99-8ff6-30ec9bf90f38",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Disney-Pixar%20Bichos%20Una%20Aventura%20en%20Miniatura%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Disney-Pixar A Bug's Life",
+          "description": "Based on the Disney/Pixar 3D animated film, you must guide Flik as he sets out to find a group of warrior insects to help his colony of ants to fight off the hungry grasshoppers.\n\nTravel through the 3D insect world, using the many elements of nature to fight the enemy, to get to the end of each stage, in turn saving fellow ants and knocking the grasshoppers quest for ant domination on the head.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney-Pixar%20A%20Bug's%20Life%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney-Pixar%20A%20Bug's%20Life%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783803524454
+        },
+        {
+          "props": {
+            "uid": "d2e6f246-d081-42fd-a64b-9c97b949a177",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20al%20Rescate%21%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue!%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue!%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783803678099
+        },
+        {
+          "props": {
+            "uid": "8a7cc593-2012-4c19-ba75-156eacdb1aa5",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Disney%27s%20Hercules%20Action%20Game%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Disney's Hercules Action Game",
+          "description": "The game is based on Disney's animated cartoon movie. You take control of Hercules, son of the god Zeus and a mortal woman, the strongest man in the world and the legendary hero in the Greek mythology. Your goal is to prove yourself worthy of being admitted to Mount Olympus, the residence of gods, and to become a god yourself. You must commit heroic deeds and overcome various obstacles to show your strength and courage. Hades, the overlord of the dead, is making it even more difficult for you by sending fearsome Titans to stop you.\n\nThis is a 2D platform action game. Hercules can jump, grab ledges, swing on poles, and jump while running. He has a variety of attack moves at his disposal. He can execute a basic attack with his sword, or pull out different combo attacks. He can also Power Punch enemies, but he needs time to charge for this powerful attack. He can even slam the ground to reveal secret areas by performing a certain move while jumping. There are also different power-ups to collect, such as coins to grant bonus points at the end of the level, Hercules Action Figures to increase your hero rating, and upgrades to your sword - Sonic, Lightning, and Fireball swords.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "backgroundPixelated": true,
+          "added": 1783803481255
         },
         {
           "props": {
@@ -371,6 +498,36 @@
         },
         {
           "props": {
+            "uid": "1d40edb7-0679-413d-be67-ecfbb67101d2",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-e/Esto%20es%20Futbol%202%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Esto Es Futbol 2",
+          "description": "",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783803353705
+        },
+        {
+          "props": {
+            "uid": "a83e62b8-d4d9-45f8-854c-7a39324c3f4a",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-e/Euro%20Demo%2027%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Euro Demo 27",
+          "description": "",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783804799782
+        },
+        {
+          "props": {
             "uid": "bea78ff7-b1f8-456b-a4c2-27e81e352ea1",
             "discs": [
               "https://archive.org/download/psx-chd-roms-f/Fighting%20Force%202%20%28Europe%29%20%28Es%2CIt%29.chd"
@@ -400,6 +557,22 @@
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gex%203%20-%20Deep%20Cover%20Gecko%20(USA).png",
           "backgroundPixelated": true,
           "added": 1707260424669
+        },
+        {
+          "props": {
+            "uid": "74beb04f-0459-4d17-823a-fa0fe1ef9e94",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-k/King%20of%20Fighters%20%2799%2C%20The%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Gran Turismo 2",
+          "description": "Second game in the Gran Turismo series of racing games exclusively for the PlayStation. Features 20  tracks and over 400 vehicles! It features an arcade mode and a simulation mode, and also supports wild two player split screen racing!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "backgroundPixelated": true,
+          "added": 1783803254891
         },
         {
           "props": {
@@ -434,6 +607,37 @@
         },
         {
           "props": {
+            "uid": "28f8f625-a025-4dc3-8307-ae837e0eed26",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-k/King%20of%20Fighters%20%2799%2C%20The%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "King of Fighters '99, The",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/King%20of%20Fighters%20'99%2C%20The%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/King%20of%20Fighters%20'99%2C%20The%20(Japan).png",
+          "backgroundPixelated": true,
+          "added": 1783803178236
+        },
+        {
+          "props": {
+            "uid": "a3100ba9-ea50-4d68-a2f3-2071962f017a",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-k/Kingsley%27s%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Kingsley's Adventure",
+          "description": "Kingsley's Adventure is a 3D Action/Adventure game for the PlayStation in a similar vein as The Legend of Zelda. In the game, you play an orphaned fox called Kingsley who was adopted by the king and queen of the Fruit Kingdom. For the most part of his life he, lived in the Carrot Castle where he was being tutored by an wise badger into the ways of a warrior and true knight.\n\nWhen a former cook from the castle is fired after being accused of food poisoning, he takes a turn for the worse. He steals the queen's spellbook and enchants the king's soldiers so he can take over the castle and thus control of the Fruit Kingdom. Now it is up to the player as Kingsley to save the day. But before you can really save the day, the young Kingsley will have to prove his valor and honor as a knight.\n\nKingsley can collect items, talk to the inhabitants of the Fruit Kingdom and fight enemies with various weapons such as a sword, axe, knife and crossbow. He will have to dodge cannonballs, crushing blocks and buzzing saws. Activate switches and open locks, jump over dangerous terrain and collect power-ups and items.\n\nWin the trust of villagers in the kingdom by helping them solving their troubles and clearing dungeons. Find a way into fortresses to defeat the dark knights in order to restore peace to the kingdom.",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783805026634
+        },
+        {
+          "props": {
             "uid": "efa42ca8-1036-4f0b-9202-41a6a8ded7d4",
             "discs": [
               "https://archive.org/download/psx-chd-roms-k/Kula%20World%20%28Europe%29.chd"
@@ -445,6 +649,70 @@
           "thumbnail": "https://i.ytimg.com/vi/7nKDO5Ir8Ls/maxresdefault.jpg",
           "background": "https://kresnik258gaming.wordpress.com/wp-content/uploads/2022/02/184a3a90c10346bd23d3a20d13356dfa.jpg?w=1200",
           "added": 1743115348999
+        },
+        {
+          "props": {
+            "uid": "28624c43-d577-489a-8e93-6920e3a08b0c",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-l/Legacy%20of%20Kain%20-%20Soul%20Reaver%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Legacy of Kain - Soul Reaver",
+          "description": "1500 years after Blood Omen: Legacy of Kain, the vampire Kain's decision at the end of that game has finally defeated the human kingdoms and brought the world of Nosgoth under his control. Ruling from a castle built on the Pillars of Nosgoth, Kain has established an empire of six vampire clans, each ruled by a lieutenant, the sons of Kain. Raziel was one such lieutenant, but lost his position through the \"insolence\" of receiving a new evolutionary \"dark gift\", the growth of feathery wings, before his master had acquired it. Fearing that Raziel might one day surpass him, Kain tears off Raziel's wings in a fit of range and banishes him into the Abyss.  There, Raziel is lost in time, died and his body consumed. The Elder God recovers Raziel's soul and rebuilds the broken body, not as a living vampire, but as a strange new creature of the underworld. Swearing revenge on Kain, Raziel now phases seamlessly between Nosgoth and it's underworld, using his new powers to become a terrible reaver of souls...\n\nSoul Reaver is a 3rd person action-adventure title that follows Raziel on his quest to purge the land of vampires and take revenge on Kain and his brothers, leaders of the six clans. The player controls the game from behind Raziel's shoulder, moving him in any direction, climbing, attacking, jumping and using specific abilities. Raziel's can grip onto the edge of ledges and his torn wings allow him to glide gently downwards. Raziel can shift through the \"material\" world into the \"spectral\" realm at will... but must find specific locations in order to shift back. The two realms mirror one another, with distortions which give access to new areas and platforms. Existing in the material world drains Raziel's life energy at a constant rate.  Throughout the game, energy is recovered by consuming the souls of defeated enemies. If Raziel is able to defeat one of his brothers, he will additionally gain a new ability (\"dark gift\") upon drinking it's soul. Examples include: the ability to swim, file telekinetic projectiles or the ability to phase through locked gates. Raziel can arm himself with a variety of weapons including spears, daggers, swords, axes, as well as attacking enemies barehanded. Eventually, Raziel will also come across Kain's personal sword (named the Soul Reaver), and will use it to create a powerful energy blade weapon.\n\nThe world is left open to Raziel, he can return to areas previously completed and explore the world of Nosgoth at will. Access to certain areas however sometimes  requires the use of gained specific abilities. Many of the puzzles the player will need to solve in this quest are \"block puzzles\", requiring the placement of certain large structures (usually square blocks), either to activate switches or to build access to out-of-reach areas.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Legacy%20of%20Kain%20-%20Soul%20Reaver%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Legacy%20of%20Kain%20-%20Soul%20Reaver%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783804434021
+        },
+        {
+          "props": {
+            "uid": "3c4ab75d-0df2-4587-a7cb-0d4e791258cd",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Sheep%2C%20Dog%20%27n%27%20Wolf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Looney Tunes - Sheep Raider",
+          "description": "Help a starving Ralph Wolf steal sheep from Sam Sheep Dog. With an arsenal of Acme equipment at his disposal, Ralph is sure to concoct the perfect plan for keeping his stomach filled, or not!\nThe game takes place across 15 stages, each with their own requirements and challenges, so the longevity of the game is notable.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Looney%20Tunes%20-%20Sheep%20Raider%20(USA)%20(En%2CFr%2CEs%2CPt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Looney%20Tunes%20-%20Sheep%20Raider%20(USA)%20(En%2CFr%2CEs%2CPt).png",
+          "backgroundPixelated": true,
+          "added": 1783802653846
+        },
+        {
+          "props": {
+            "uid": "6a15f276-6a35-4669-8434-30b188fb888d",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Marranos%20en%20Guerra%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Marranos en Guerra",
+          "description": "Command a regiment of hogs through different battlefields - all with the same mission: eliminate the enemy.\n\nGameplay is comparable to the Worms-games, but Hogs Of War comes completely in 3D.\nYou also have here lots of cool weapons and the possibility to give your hogs special jobs like: sniper, medic, ...",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Hogs%20of%20War%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Hogs%20of%20War%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783801691639
+        },
+        {
+          "props": {
+            "uid": "20764df4-61a5-4d37-83ba-ae10383b9c17",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Medal%20of%20Honor%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Medal of Honor",
+          "description": "Medal of Honor is the first in the long-running series of World War II shooters, originally created by Steven Spielberg. The play assumes the role of Lt. Patterson who has to complete different tasks in the OSS. The missions vary from securing a small French village from any Nazi forces, to taking out a Heavy armored German rail gun. The player has access to a wide selection of antique weapons such as P38 pistols, M1 Garand carabines, MP40's and more. The goals also include undercover missions. Split-screen multiplayer is supported for two players.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Medal%20of%20Honor%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Medal%20of%20Honor%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783801793134
         },
         {
           "props": {
@@ -462,6 +730,69 @@
           "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/MediEvil%20(Europe).png",
           "backgroundPixelated": true,
           "added": 1743033256717
+        },
+        {
+          "props": {
+            "uid": "b4437805-ede4-49dd-9dc7-fba83682f47d",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Metal%20Gear%20Solid%20%28Spain%29%20%28Disc%201%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Metal Gear Solid",
+          "description": "Metal Gear Solid is a sequel to Metal Gear 2: Solid Snake. After the tragic confrontation with Big Boss, the hero, special agent Solid Snake, decided to retire and has since then lived in a secluded region in Alaska. But the US government recruits him once again for a dangerous mission. The members of Foxhound, a renegade special forces unit, threaten to use a devastating nuclear weapon if the government doesn't hand them the mortal remains of Big Boss, their former commander. Foxhound is now led by a talented, ambitious young man with the codename Liquid Snake. Knowing that the visual resemblance between this new terrorist mastermind and himself can not be coincidental, Solid Snake agrees to infiltrate the new Foxhound base, to destroy the unknown nuclear weapon, and to find the truth about his own identity.\n\nThe gameplay in Metal Gear Solid follows the prototype established in the two classic Metal Gear games. Solid Snake has a limited arsenal of weapons and cannot allow himself to pave his way to the goal by killing all the enemies. He has to stay unnoticed, to hide, to crawl, to wait for the right moment, to sneak, and to use various gadgets that will prevent him from alerting the enemy. The game utilizes traditional top-down view, but the graphics in this installment are real-time 3D.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Metal%20Gear%20Solid%20(Asia)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Metal%20Gear%20Solid%20(Asia)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1783801197113
+        },
+        {
+          "props": {
+            "uid": "7169988d-3bf5-4e3b-95d9-baf1245e35e0",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Moto%20Racer%202%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Moto Racer 2",
+          "description": "Delphine's sequel to their popular Moto Racer, MR2 features more tracks, several different \"championship\" modes, an enhanced Direct3D graphics engine, and a track editor for creating your own superbike and motocross tracks.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Moto%20Racer%202%20(Europe)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Moto%20Racer%202%20(Europe)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1783803119909
+        },
+        {
+          "props": {
+            "uid": "fa3ee23a-0b96-4b76-9cdd-5f37407d588f",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Mr.%20Driller%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Mr. Driller",
+          "description": "Mr Driller's world has been covered with mysterious blocks. Armed with only a mighty drill, you'll have to dig your way down to safety before his air supply runs out!\n\nMr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning.  Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Mr.%20Driller%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Mr.%20Driller%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1783801852124
+        },
+        {
+          "props": {
+            "uid": "caf1b4de-9af2-4c6f-bc2b-210447c1f777",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-n/Net%20Yaroze%20%28Europe%29%20%28Demo%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Net Yaroze",
+          "description": "",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783804705808
         },
         {
           "props": {
@@ -496,6 +827,22 @@
         },
         {
           "props": {
+            "uid": "8f5ff53c-1e08-4198-a321-77d78726baa6",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-p/PaRappa%20the%20Rapper%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "PaRappa the Rapper",
+          "description": "The rapping pup, PaRappa, dreams of impressing his friend, the beautiful Sunny Funny, and going out on a date with her.  But what he lacks is confidence - help PaRappa rap his way through learning Kung Fu, a driving test, cooking and more, all in order to get the girl.  And remember - You Gotta Believe!\n\nPaRappa the Rapper is a game based on lyrics, music and rhythm.  The game itself is very basic - each stage has a 'teacher', that PaRappa must follow.  You'll see the teacher say some lyrics, and then PaRappa must copy the teacher by pressing the appropriate buttons to repeat those lyrics back.  Rap well, and you'll be able to continue; fudge up the lyrics, and the music will start to distort and the teacher will become displeased.  Continue to mess up and you'll fail the stage.\n\nOf course, the goal is not to copy the teacher, but instead to outperform them - you can do this by improvising in the song's gaps.  Listen to how the song goes, and improvise in time to the music; if you perform well enough, the teacher will step aside, leaving you to freestyle on your own!\n\nThe PSP version of the game is a remake of the PlayStation original.  However, it includes a few upgrades, such as a 16:9 display, sharper graphics, game sharing, multiplayer support of up to four players, and the addition of song remixes, which can be downloaded via the internet onto your Memory Stick Duo.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/PaRappa%20the%20Rapper%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/PaRappa%20the%20Rapper%20(Japan).png",
+          "backgroundPixelated": true,
+          "added": 1783801957987
+        },
+        {
+          "props": {
             "uid": "589d6d59-c346-4a74-bec2-d7fb6aca02b6",
             "discs": [
               "https://archive.org/download/psx-chd-roms-p/Populous%20-%20The%20Beginning%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
@@ -511,161 +858,19 @@
         },
         {
           "props": {
+            "uid": "ed29c49a-32b5-4008-9e65-df3be44b413e",
             "discs": [
-              "https://archive.org/download/twisted-metal-4-usa/Tekken%203%20%28Europe%29.chd"
+              "https://archive.org/download/psx-chd-roms-r/Ridge%20Racer%20Type%204%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
             ],
-            "sbi": [],
-            "uid": "37edf23f-1579-4b82-bb12-7ab60402edb2",
             "skipBios": true
           },
           "type": "psx",
-          "title": "Tekken 3",
-          "description": "Para muchos, el que marcó un antes y un después en los juegos de lucha. \nA la tercera va la vencida, y tekken 3 así lo demuestra, uno de sus personajes es un mini dinosaurio que se tira pedos, ósea, ¿Qué mas puedes pedir?",
-          "thumbnail": "https://github.com/xlenore/psx-covers/blob/main/covers/3d/SCED-01146.png?raw=true",
-          "background": "https://i.ytimg.com/vi/9qj5bk7cGsc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6AfXKly2qKRB59nnmGkmHfAvBaA",
+          "title": "R4 - Ridge Racer Type 4",
+          "description": "Developed exclusively for the Sony Playstation, this fourth title in the Ridge Racer series features new visuals, powered by goraud-shaded polygons, giving each car and track a more refined appearance, while keeping the same arcade gameplay popularized by the first game of the series.\n\nWhile it includes the usual time attack and a new split-screen versus mode, the focus of the game is the Real Racing Roots '99, Ridge City's three heat, seven race championship, with the grand finale in a speedway during New Year's Eve.\n\nThe player starts by choosing one of the four teams available (from easiest to harder): Micro Mouse Mappy, directed by the lovely Sophie Chevalier who hopes to win the first title in many years for the French team to honour her ill grandfather, Pac Racing Team, a recently created Japanese team directed by Shinji Yazaki who expects to create an immediate splash in the Ridge City racing scene, from Italy the RRR champions Racing Team Solvalou, with the demanding Enki Gilbert at the helm, and the American team Dig Racing Team, who has fallen into financial difficulties, with team director Robert Chrisman struggling to provide the driver with a car capable of out-handling opponents.\n\nAfter picking a team, the player can choose one of the four car makers available: Lizard and Assoluto keep the old RR tradition of cars drifting wildly on corners, but Age Solo and Terrazi offer a new experience with their \"Grip\" cars that require more breaking and careful trajectories, but are easier to control during turns.\n\nThe player earns (and so, unlocks for free play) cars by completing races; however, final placement defines how good the car will be. By scraping through the first two heats (the Final GP accepts nothing but a victory), sponsors will be unwilling to invest in the team and instead of a new car, the mechanics will only upgrade the current vehicle. But winning all races allows the driver to reach the Shooting Hoops speedway with the fastest car. By combining all qualifying placements, 320 cars are waiting to be unlocked.\n\nR4 Ridge Racer Type 4 also includes an extra disk, featuring the original Ridge Racer in higher resolution. For a time, the game was also sold as a bundle along Namco's innovative Jogcon controller.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/R4%20-%20Ridge%20Racer%20Type%204%20(Japan)%20(R4%20%2B%20JogCon).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/R4%20-%20Ridge%20Racer%20Type%204%20(Japan)%20(R4%20%2B%20JogCon).png",
           "backgroundPixelated": true,
-          "added": 1743028775352
-        },
-        {
-          "props": {
-            "uid": "6338c622-f2e0-45f8-951b-607a0fa82b30",
-            "discs": [
-              "https://archive.org/download/twisted-metal-4-usa/Theme%20Hospital%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Theme Hospital",
-          "description": "Theme Hospital es un videojuego de simulación desarrollado por Bullfrog Productions y publicado por Electronic Arts en 1997, en el cual el jugador diseña y opera un hospital. Como la mayoría de los juegos de Bullfrog Theme Hospital está impregnado de un excéntrico sentido del humor. Este juego es el sucesor espiritual de Theme Park, un juego también producido por Bullfrog.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Theme%20Hospital%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Theme%20Hospital%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
-          "backgroundPixelated": true,
-          "added": 1707254486862
-        },
-        {
-          "props": {
-            "uid": "26a08f5b-0352-4864-bce7-d10c5d8dec63",
-            "discs": [
-              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Theme%20Park%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Theme Park World",
-          "description": "Para muchos fue el punto de partida en los juegos de simulación (para un servidor incluido).\nCuando te quieres dar cuenta, estas en una debacle de montañas rusas en primera persona, y limpieza de vómitos (también en primera persona...)\n*El juego ofrece solo la versión parque de prueba, pronto dispondremos de la versión completa.",
-          "thumbnail": "data:image/jpeg;base64,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",
-          "background": "https://m.media-amazon.com/images/M/MV5BNDFmY2FiODUtNTEwOC00MTBlLThiMjUtOTkzZGNjOGYzYWQ0XkEyXkFqcGc@._V1_QL75_UX388_.jpg",
-          "added": 1707253994697
-        },
-        {
-          "props": {
-            "uid": "bbfd2784-0ec1-43dd-8445-60518cc09e01",
-            "discs": [
-              "https://archive.org/download/twisted-metal-4-usa/Tomb%20Raider%20%28Europe%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Tomb Raider",
-          "description": "En este juego se forjo la leyenda!\nLa primera aventura de Lara Croft, en su búsqueda por el mundo de los tres misteriosos artefactos de Scion.\nSpoiler: No, Lara desnuda y la escena de la ducha son leyendas urbanas, lo siento.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20(Europe).png",
-          "backgroundPixelated": true,
-          "added": 1707254357575
-        },
-        {
-          "props": {
-            "uid": "26a08f5b-0352-4864-bce7-d10c5d8dec63",
-            "discs": [
-              "https://archive.org/download/twisted-metal-4-usa/Tombi%21%20%28Europe%29%20%28En%2CEs%2CPt%2CSv%2CDa%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Tombi!",
-          "description": "Siete \"Cerdiablos\" usan poderes mágicos para transformar el continente en un extraño territorio. Los subalternos de los Cerdiablos, los Cerdos Koma, roban una gran cantidad de oro y a Tombi le roban el brazalete de su abuelo. La misión de Tombi es liberar las partes malditas del continente y derrotar a los Cerdiablos para recuperar su brazalete",
-          "thumbnail": "https://images.squarespace-cdn.com/content/v1/574bec3527d4bdfe229ea099/1536030576120-CX02CVN1PNZVUQG8WL0A/tombi.png",
-          "background": "https://upload.wikimedia.org/wikipedia/it/6/64/Tombi.png",
-          "added": 1707253994697
-        },
-        {
-          "props": {
-            "uid": "45237ae8-e0a9-4429-8ebf-4d828bbd6029",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-u-z/V2000%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "V2000",
-          "description": "Lo reconozco, este juego no lo conocéis ninguno, pero yo lo tengo en la cabeza desde que lo jugué en una demo allá por los 90.\nManejas una nave y debes ir salvando inocentes y destruyendo mutaciones a través de planetas en perfecto 3D",
-          "thumbnail": "https://i.ytimg.com/vi/rH9rbzjG9qI/maxresdefault.jpg",
-          "background": "https://i.ytimg.com/vi/9sL77YETmn8/maxresdefault.jpg",
-          "added": 1743113732590
-        },
-        {
-          "props": {
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-s/Speed%20Freaks%20%28Europe%29.chd"
-            ],
-            "sbi": [],
-            "uid": "e5c1315d-8934-4129-8195-46cbc761c767",
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Speed Freaks",
-          "description": "",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Speed%20Freaks%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Speed%20Freaks%20(Europe).png",
-          "backgroundPixelated": true,
-          "added": 1783799812322
-        },
-        {
-          "props": {
-            "uid": "35047bfd-9ec2-4ee5-bdb2-7b23957f132a",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-s/Spider-Man%20%28Spain%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Spider-Man",
-          "description": "Spider-Man is the first 3D game to star the popular web-slinger.  It is loosely based on Spider-Man: The Animated Series and Spider-Man Unlimited and features some of the voice cast from each and similar character designs.\n\nPeter Parker is attending a demonstration of the reformed Dr. Otto Octavius's new invention when an imposter Spider-Man steals the device.  Spider-Man must work to clear his name and uncover the sinister motives behind the device's theft.\n\nThis game features appearances not only by most major Spider-Man characters, but cameos by numerous other characters from the Marvel Universe, such as the Human Torch, Punisher, Daredevil and Captain America.\n\nSpider-Man's webs are greatly emphasized.  He can use them both for navigational purposes, like swinging or ziplining, and for offensive and defensive combat, such as tying up a villain, coating his fists with web for extra oomph, or building a protective shield.  His web supply is limited though and he must find new cartridges or risk running out.  The wall-crawling powers are also prominently features.  Spider-Man can cling to any wall or ceiling.  This is used for basic environmental navigation and for stealth as there are many sequences where you crawl over the heads of unsuspecting thugs, or drop down and catch them off-guard.\n\nCombat is based around Spider-Man's ability to jump, kick, punch and web.  By combining these with direction and in various combinations, Spider-Man is able to throw objects such as furniture, hurl web balls, yank enemies into melee range and follow up with a flurry of hits, among other things.  There are a number of boss-battles as well, all of which are puzzle-based.\n\nMissions vary from the fairly common fight-your way-to-the-goal or find-the-key-that-unlocks-the-door types to races to catch some or evade them or just trying to avoid the police.\n\nThere are several side goals in addition the main mission including multiple unlockable Spider-Man costumes and numerous hidden comic book covers to find.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Spider-Man%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Spider-Man%20(Europe).png",
-          "backgroundPixelated": true,
-          "added": 1783799858793
-        },
-        {
-          "props": {
-            "uid": "6035cb4b-9f26-4e9d-9bb1-29dd4bba47da",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-s/Star%20Wars%20-%20Episodio%20I%20-%20La%20Amenaza%20Fantasma%20%28Spain%29.chd"
-            ]
-          },
-          "type": "psx",
-          "title": "Star Wars - Episodio I - La Amenaza Fantasma",
-          "description": "",
-          "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMIk0e6U2Pxyo5sPvduhv4LPxbAU3BhhNHSHp9vQBLS0jjlP7FRLEdrYciO4JFAV_91hL8bPe15-Y0SWEmCDVsT9gh0yihsiC7FlkuuSE2SmLAtcehv5gbQTkqgypzaOZk6gJAYWFcstW/s1600/starwarsepisodiolps1.png",
-          "background": "https://pics.filmaffinity.com/star_wars_episode_i_the_phantom_menace_videogame-295483002-large.jpg",
-          "backgroundPixelated": true,
-          "added": 1783800047574
-        },
-        {
-          "props": {
-            "uid": "b4437805-ede4-49dd-9dc7-fba83682f47d",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-m/Metal%20Gear%20Solid%20%28Spain%29%20%28Disc%201%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Metal Gear Solid",
-          "description": "Metal Gear Solid is a sequel to Metal Gear 2: Solid Snake. After the tragic confrontation with Big Boss, the hero, special agent Solid Snake, decided to retire and has since then lived in a secluded region in Alaska. But the US government recruits him once again for a dangerous mission. The members of Foxhound, a renegade special forces unit, threaten to use a devastating nuclear weapon if the government doesn't hand them the mortal remains of Big Boss, their former commander. Foxhound is now led by a talented, ambitious young man with the codename Liquid Snake. Knowing that the visual resemblance between this new terrorist mastermind and himself can not be coincidental, Solid Snake agrees to infiltrate the new Foxhound base, to destroy the unknown nuclear weapon, and to find the truth about his own identity.\n\nThe gameplay in Metal Gear Solid follows the prototype established in the two classic Metal Gear games. Solid Snake has a limited arsenal of weapons and cannot allow himself to pave his way to the goal by killing all the enemies. He has to stay unnoticed, to hide, to crawl, to wait for the right moment, to sneak, and to use various gadgets that will prevent him from alerting the enemy. The game utilizes traditional top-down view, but the graphics in this installment are real-time 3D.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Metal%20Gear%20Solid%20(Asia)%20(Demo).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Metal%20Gear%20Solid%20(Asia)%20(Demo).png",
-          "backgroundPixelated": true,
-          "added": 1783801197113
+          "added": 1783801546410
         },
         {
           "props": {
@@ -733,22 +938,6 @@
         },
         {
           "props": {
-            "uid": "ed29c49a-32b5-4008-9e65-df3be44b413e",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-r/Ridge%20Racer%20Type%204%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "R4 - Ridge Racer Type 4",
-          "description": "Developed exclusively for the Sony Playstation, this fourth title in the Ridge Racer series features new visuals, powered by goraud-shaded polygons, giving each car and track a more refined appearance, while keeping the same arcade gameplay popularized by the first game of the series.\n\nWhile it includes the usual time attack and a new split-screen versus mode, the focus of the game is the Real Racing Roots '99, Ridge City's three heat, seven race championship, with the grand finale in a speedway during New Year's Eve.\n\nThe player starts by choosing one of the four teams available (from easiest to harder): Micro Mouse Mappy, directed by the lovely Sophie Chevalier who hopes to win the first title in many years for the French team to honour her ill grandfather, Pac Racing Team, a recently created Japanese team directed by Shinji Yazaki who expects to create an immediate splash in the Ridge City racing scene, from Italy the RRR champions Racing Team Solvalou, with the demanding Enki Gilbert at the helm, and the American team Dig Racing Team, who has fallen into financial difficulties, with team director Robert Chrisman struggling to provide the driver with a car capable of out-handling opponents.\n\nAfter picking a team, the player can choose one of the four car makers available: Lizard and Assoluto keep the old RR tradition of cars drifting wildly on corners, but Age Solo and Terrazi offer a new experience with their \"Grip\" cars that require more breaking and careful trajectories, but are easier to control during turns.\n\nThe player earns (and so, unlocks for free play) cars by completing races; however, final placement defines how good the car will be. By scraping through the first two heats (the Final GP accepts nothing but a victory), sponsors will be unwilling to invest in the team and instead of a new car, the mechanics will only upgrade the current vehicle. But winning all races allows the driver to reach the Shooting Hoops speedway with the fastest car. By combining all qualifying placements, 320 cars are waiting to be unlocked.\n\nR4 Ridge Racer Type 4 also includes an extra disk, featuring the original Ridge Racer in higher resolution. For a time, the game was also sold as a bundle along Namco's innovative Jogcon controller.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/R4%20-%20Ridge%20Racer%20Type%204%20(Japan)%20(R4%20%2B%20JogCon).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/R4%20-%20Ridge%20Racer%20Type%204%20(Japan)%20(R4%20%2B%20JogCon).png",
-          "backgroundPixelated": true,
-          "added": 1783801546410
-        },
-        {
-          "props": {
             "uid": "f86f4350-85f5-4877-9d59-0ba362d616e9",
             "discs": [
               "https://archive.org/download/psx-chd-roms-r/Road%20Rash%203D%20%28Europe%29.chd"
@@ -765,145 +954,18 @@
         },
         {
           "props": {
-            "uid": "6a15f276-6a35-4669-8434-30b188fb888d",
+            "uid": "9d3c79c2-bb78-4dc2-9642-d920b905ec27",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-m/Marranos%20en%20Guerra%20%28Spain%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Marranos en Guerra",
-          "description": "Command a regiment of hogs through different battlefields - all with the same mission: eliminate the enemy.\n\nGameplay is comparable to the Worms-games, but Hogs Of War comes completely in 3D.\nYou also have here lots of cool weapons and the possibility to give your hogs special jobs like: sniper, medic, ...",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Hogs%20of%20War%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Hogs%20of%20War%20(Europe).png",
-          "backgroundPixelated": true,
-          "added": 1783801691639
-        },
-        {
-          "props": {
-            "uid": "f87b1a73-b8c1-4b46-85cc-32542699c857",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-s/Street%20Fighter%20Alpha%202%20%28USA%29.chd"
+              "https://archive.org/download/psx-chd-roms-s/S.C.A.R.S.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
             ]
           },
           "type": "psx",
-          "title": "Street Fighter Alpha 2",
-          "description": "Another Street Fighter sequel (this time for Street Fighter Alpha) adds even more to the classic fighting series.\n\nNew characters in this version include Gen (a wise kung-fu master), Rolento (who you may remember from another Capcom classic, Final Fight) and Sakura, a young school girl who follows her hero Ryu so close, she has the same type of moves. Dhalsim and Zangief also return to the fight with some news moves.\n\nThe other major difference is the loss of chain-combos and the gain of a custom combo system. Once you reach the required level (which is 1 at the least) you can execute a custom combo by combining any of the buttons (which there are 6 in total) or any of the special attacks (fireballs, etc.)",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%202%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%202%20(Europe).png",
+          "title": "S.C.A.R.S.",
+          "description": "In the world of 3000 AD, the world is run by 9 different supercomputers, who are horribly bored, so they created this virtual reality simulation to race each other. The cars are based on the attributes of extinct Terran animals. Race nine different cars (some need to be unlocked) on nine different tracks. You can race, or you can shoot your opponents with the nine different weapons. Plenty of multiplayer options (including split screen on PC).",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/S.C.A.R.S.%20(Europe)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/S.C.A.R.S.%20(Europe)%20(Demo).png",
           "backgroundPixelated": true,
-          "added": 1783801751318
-        },
-        {
-          "props": {
-            "uid": "20764df4-61a5-4d37-83ba-ae10383b9c17",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-m/Medal%20of%20Honor%20%28Europe%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Medal of Honor",
-          "description": "Medal of Honor is the first in the long-running series of World War II shooters, originally created by Steven Spielberg. The play assumes the role of Lt. Patterson who has to complete different tasks in the OSS. The missions vary from securing a small French village from any Nazi forces, to taking out a Heavy armored German rail gun. The player has access to a wide selection of antique weapons such as P38 pistols, M1 Garand carabines, MP40's and more. The goals also include undercover missions. Split-screen multiplayer is supported for two players.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Medal%20of%20Honor%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Medal%20of%20Honor%20(Europe).png",
-          "backgroundPixelated": true,
-          "added": 1783801793134
-        },
-        {
-          "props": {
-            "uid": "fa3ee23a-0b96-4b76-9cdd-5f37407d588f",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-m/Mr.%20Driller%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Mr. Driller",
-          "description": "Mr Driller's world has been covered with mysterious blocks. Armed with only a mighty drill, you'll have to dig your way down to safety before his air supply runs out!\n\nMr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning.  Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Mr.%20Driller%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Mr.%20Driller%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
-          "backgroundPixelated": true,
-          "added": 1783801852124
-        },
-        {
-          "props": {
-            "uid": "8f5ff53c-1e08-4198-a321-77d78726baa6",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-p/PaRappa%20the%20Rapper%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "PaRappa the Rapper",
-          "description": "The rapping pup, PaRappa, dreams of impressing his friend, the beautiful Sunny Funny, and going out on a date with her.  But what he lacks is confidence - help PaRappa rap his way through learning Kung Fu, a driving test, cooking and more, all in order to get the girl.  And remember - You Gotta Believe!\n\nPaRappa the Rapper is a game based on lyrics, music and rhythm.  The game itself is very basic - each stage has a 'teacher', that PaRappa must follow.  You'll see the teacher say some lyrics, and then PaRappa must copy the teacher by pressing the appropriate buttons to repeat those lyrics back.  Rap well, and you'll be able to continue; fudge up the lyrics, and the music will start to distort and the teacher will become displeased.  Continue to mess up and you'll fail the stage.\n\nOf course, the goal is not to copy the teacher, but instead to outperform them - you can do this by improvising in the song's gaps.  Listen to how the song goes, and improvise in time to the music; if you perform well enough, the teacher will step aside, leaving you to freestyle on your own!\n\nThe PSP version of the game is a remake of the PlayStation original.  However, it includes a few upgrades, such as a 16:9 display, sharper graphics, game sharing, multiplayer support of up to four players, and the addition of song remixes, which can be downloaded via the internet onto your Memory Stick Duo.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/PaRappa%20the%20Rapper%20(Japan).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/PaRappa%20the%20Rapper%20(Japan).png",
-          "backgroundPixelated": true,
-          "added": 1783801957987
-        },
-        {
-          "props": {
-            "uid": "ff30f01a-5c54-414a-af6d-77a7380a0f91",
-            "discs": [
-              "https://archive.org/download/twisted-metal-4-usa/Tomb%20Raider%20Chronicles%20%28Spain%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Tomb Raider Chronicles",
-          "description": "Just when the world had come to agree that Lara is finally a thing of the past, along comes a new collection of levels for our lovely Lara Croft to tackle. Each of the four chapters center around a different area of Lara's past, from the very start of her life (as a teen raider!!) to just before her death. Chronicles also includes a level editor, allowing the player to create new Tombs for Lara to raid.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20Chronicles%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20Chronicles%20(Europe).png",
-          "backgroundPixelated": true,
-          "added": 1783802035281
-        },
-        {
-          "props": {
-            "uid": "9e8b430e-0fea-468a-beb1-b21b2350254c",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-u-z/WipEout%203%20-%20Special%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
-            ]
-          },
-          "type": "psx",
-          "title": "WipEout 3 - Special Edition",
-          "description": "This special edition of Wipeout 3 (or Wip3out) has all the tracks from Wip3out, 3 from the original Wipeout and 5 from Wipeout 2097 (A.K.A. Wipeout XL) and some improvements around the original Wip3out tracks. The game menu has also been improved. I.E. the small fonts in the original Wip3out have been enlarged and the default name screen also includes numbers now.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/WipEout%203%20-%20Special%20Edition%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/WipEout%203%20-%20Special%20Edition%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
-          "backgroundPixelated": true,
-          "added": 1783802499632
-        },
-        {
-          "props": {
-            "uid": "03ff4974-c5c6-4e2b-bc1e-c036e0fb432d",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-s/Silent%20Bomber%20%28Spain%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Silent Bomber",
-          "description": "Silent Bomber is an old school style game which takes place in the future.  You play as a character named Jutah Fate, a genetically engineered man created by the government.  You're an expert at using bombs.  You start out being able to set only a few bombs at a time, but eventually you can increase the number by collecting E-Chips.   It's a fast paced game of blowing things up before they blow you up.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Silent%20Bomber%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Silent%20Bomber%20(Europe).png",
-          "backgroundPixelated": true,
-          "added": 1783802589511
-        },
-        {
-          "props": {
-            "uid": "3c4ab75d-0df2-4587-a7cb-0d4e791258cd",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-s/Sheep%2C%20Dog%20%27n%27%20Wolf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Looney Tunes - Sheep Raider",
-          "description": "Help a starving Ralph Wolf steal sheep from Sam Sheep Dog. With an arsenal of Acme equipment at his disposal, Ralph is sure to concoct the perfect plan for keeping his stomach filled, or not!\nThe game takes place across 15 stages, each with their own requirements and challenges, so the longevity of the game is notable.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Looney%20Tunes%20-%20Sheep%20Raider%20(USA)%20(En%2CFr%2CEs%2CPt).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Looney%20Tunes%20-%20Sheep%20Raider%20(USA)%20(En%2CFr%2CEs%2CPt).png",
-          "backgroundPixelated": true,
-          "added": 1783802653846
+          "added": 1783802952624
         },
         {
           "props": {
@@ -923,269 +985,207 @@
         },
         {
           "props": {
-            "uid": "9d3c79c2-bb78-4dc2-9642-d920b905ec27",
+            "uid": "03ff4974-c5c6-4e2b-bc1e-c036e0fb432d",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-s/S.C.A.R.S.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+              "https://archive.org/download/psx-chd-roms-s/Silent%20Bomber%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Silent Bomber",
+          "description": "Silent Bomber is an old school style game which takes place in the future.  You play as a character named Jutah Fate, a genetically engineered man created by the government.  You're an expert at using bombs.  You start out being able to set only a few bombs at a time, but eventually you can increase the number by collecting E-Chips.   It's a fast paced game of blowing things up before they blow you up.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Silent%20Bomber%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Silent%20Bomber%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783802589511
+        },
+        {
+          "props": {
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Speed%20Freaks%20%28Europe%29.chd"
+            ],
+            "sbi": [],
+            "uid": "e5c1315d-8934-4129-8195-46cbc761c767",
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Speed Freaks",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Speed%20Freaks%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Speed%20Freaks%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783799812322
+        },
+        {
+          "props": {
+            "uid": "35047bfd-9ec2-4ee5-bdb2-7b23957f132a",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Spider-Man%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Spider-Man",
+          "description": "Spider-Man is the first 3D game to star the popular web-slinger.  It is loosely based on Spider-Man: The Animated Series and Spider-Man Unlimited and features some of the voice cast from each and similar character designs.\n\nPeter Parker is attending a demonstration of the reformed Dr. Otto Octavius's new invention when an imposter Spider-Man steals the device.  Spider-Man must work to clear his name and uncover the sinister motives behind the device's theft.\n\nThis game features appearances not only by most major Spider-Man characters, but cameos by numerous other characters from the Marvel Universe, such as the Human Torch, Punisher, Daredevil and Captain America.\n\nSpider-Man's webs are greatly emphasized.  He can use them both for navigational purposes, like swinging or ziplining, and for offensive and defensive combat, such as tying up a villain, coating his fists with web for extra oomph, or building a protective shield.  His web supply is limited though and he must find new cartridges or risk running out.  The wall-crawling powers are also prominently features.  Spider-Man can cling to any wall or ceiling.  This is used for basic environmental navigation and for stealth as there are many sequences where you crawl over the heads of unsuspecting thugs, or drop down and catch them off-guard.\n\nCombat is based around Spider-Man's ability to jump, kick, punch and web.  By combining these with direction and in various combinations, Spider-Man is able to throw objects such as furniture, hurl web balls, yank enemies into melee range and follow up with a flurry of hits, among other things.  There are a number of boss-battles as well, all of which are puzzle-based.\n\nMissions vary from the fairly common fight-your way-to-the-goal or find-the-key-that-unlocks-the-door types to races to catch some or evade them or just trying to avoid the police.\n\nThere are several side goals in addition the main mission including multiple unlockable Spider-Man costumes and numerous hidden comic book covers to find.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Spider-Man%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Spider-Man%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783799858793
+        },
+        {
+          "props": {
+            "uid": "6035cb4b-9f26-4e9d-9bb1-29dd4bba47da",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Star%20Wars%20-%20Episodio%20I%20-%20La%20Amenaza%20Fantasma%20%28Spain%29.chd"
             ]
           },
           "type": "psx",
-          "title": "S.C.A.R.S.",
-          "description": "In the world of 3000 AD, the world is run by 9 different supercomputers, who are horribly bored, so they created this virtual reality simulation to race each other. The cars are based on the attributes of extinct Terran animals. Race nine different cars (some need to be unlocked) on nine different tracks. You can race, or you can shoot your opponents with the nine different weapons. Plenty of multiplayer options (including split screen on PC).",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/S.C.A.R.S.%20(Europe)%20(Demo).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/S.C.A.R.S.%20(Europe)%20(Demo).png",
-          "backgroundPixelated": true,
-          "added": 1783802952624
-        },
-        {
-          "props": {
-            "uid": "7169988d-3bf5-4e3b-95d9-baf1245e35e0",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-m/Moto%20Racer%202%20%28USA%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Moto Racer 2",
-          "description": "Delphine's sequel to their popular Moto Racer, MR2 features more tracks, several different \"championship\" modes, an enhanced Direct3D graphics engine, and a track editor for creating your own superbike and motocross tracks.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Moto%20Racer%202%20(Europe)%20(Demo).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Moto%20Racer%202%20(Europe)%20(Demo).png",
-          "backgroundPixelated": true,
-          "added": 1783803119909
-        },
-        {
-          "props": {
-            "uid": "28f8f625-a025-4dc3-8307-ae837e0eed26",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-k/King%20of%20Fighters%20%2799%2C%20The%20%28USA%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "King of Fighters '99, The",
+          "title": "Star Wars - Episodio I - La Amenaza Fantasma",
           "description": "",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/King%20of%20Fighters%20'99%2C%20The%20(Japan).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/King%20of%20Fighters%20'99%2C%20The%20(Japan).png",
+          "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMIk0e6U2Pxyo5sPvduhv4LPxbAU3BhhNHSHp9vQBLS0jjlP7FRLEdrYciO4JFAV_91hL8bPe15-Y0SWEmCDVsT9gh0yihsiC7FlkuuSE2SmLAtcehv5gbQTkqgypzaOZk6gJAYWFcstW/s1600/starwarsepisodiolps1.png",
+          "background": "https://pics.filmaffinity.com/star_wars_episode_i_the_phantom_menace_videogame-295483002-large.jpg",
           "backgroundPixelated": true,
-          "added": 1783803178236
+          "added": 1783800047574
         },
         {
           "props": {
-            "uid": "74beb04f-0459-4d17-823a-fa0fe1ef9e94",
+            "uid": "f87b1a73-b8c1-4b46-85cc-32542699c857",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-k/King%20of%20Fighters%20%2799%2C%20The%20%28USA%29.chd"
-            ],
-            "skipBios": true
+              "https://archive.org/download/psx-chd-roms-s/Street%20Fighter%20Alpha%202%20%28USA%29.chd"
+            ]
           },
           "type": "psx",
-          "title": "Gran Turismo 2",
-          "description": "Second game in the Gran Turismo series of racing games exclusively for the PlayStation. Features 20  tracks and over 400 vehicles! It features an arcade mode and a simulation mode, and also supports wild two player split screen racing!",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "title": "Street Fighter Alpha 2",
+          "description": "Another Street Fighter sequel (this time for Street Fighter Alpha) adds even more to the classic fighting series.\n\nNew characters in this version include Gen (a wise kung-fu master), Rolento (who you may remember from another Capcom classic, Final Fight) and Sakura, a young school girl who follows her hero Ryu so close, she has the same type of moves. Dhalsim and Zangief also return to the fight with some news moves.\n\nThe other major difference is the loss of chain-combos and the gain of a custom combo system. Once you reach the required level (which is 1 at the least) you can execute a custom combo by combining any of the buttons (which there are 6 in total) or any of the special attacks (fireballs, etc.)",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%202%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%202%20(Europe).png",
           "backgroundPixelated": true,
-          "added": 1783803254891
+          "added": 1783801751318
         },
         {
           "props": {
-            "uid": "1d40edb7-0679-413d-be67-ecfbb67101d2",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-e/Esto%20es%20Futbol%202%20%28Spain%29.chd"
+              "https://archive.org/download/twisted-metal-4-usa/Tekken%203%20%28Europe%29.chd"
             ],
+            "sbi": [],
+            "uid": "37edf23f-1579-4b82-bb12-7ab60402edb2",
             "skipBios": true
           },
           "type": "psx",
-          "title": "Esto Es Futbol 2",
-          "description": "",
-          "thumbnail": "",
-          "background": "",
-          "added": 1783803353705
-        },
-        {
-          "props": {
-            "uid": "8a7cc593-2012-4c19-ba75-156eacdb1aa5",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-d/Disney%27s%20Hercules%20Action%20Game%20%28USA%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Disney's Hercules Action Game",
-          "description": "The game is based on Disney's animated cartoon movie. You take control of Hercules, son of the god Zeus and a mortal woman, the strongest man in the world and the legendary hero in the Greek mythology. Your goal is to prove yourself worthy of being admitted to Mount Olympus, the residence of gods, and to become a god yourself. You must commit heroic deeds and overcome various obstacles to show your strength and courage. Hades, the overlord of the dead, is making it even more difficult for you by sending fearsome Titans to stop you.\n\nThis is a 2D platform action game. Hercules can jump, grab ledges, swing on poles, and jump while running. He has a variety of attack moves at his disposal. He can execute a basic attack with his sword, or pull out different combo attacks. He can also Power Punch enemies, but he needs time to charge for this powerful attack. He can even slam the ground to reveal secret areas by performing a certain move while jumping. There are also different power-ups to collect, such as coins to grant bonus points at the end of the level, Hercules Action Figures to increase your hero rating, and upgrades to your sword - Sonic, Lightning, and Fireball swords.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney's%20Hercules%20Action%20Game%20(USA).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "title": "Tekken 3",
+          "description": "Para muchos, el que marcó un antes y un después en los juegos de lucha. \nA la tercera va la vencida, y tekken 3 así lo demuestra, uno de sus personajes es un mini dinosaurio que se tira pedos, ósea, ¿Qué mas puedes pedir?",
+          "thumbnail": "https://github.com/xlenore/psx-covers/blob/main/covers/3d/SCED-01146.png?raw=true",
+          "background": "https://i.ytimg.com/vi/9qj5bk7cGsc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6AfXKly2qKRB59nnmGkmHfAvBaA",
           "backgroundPixelated": true,
-          "added": 1783803481255
+          "added": 1743028775352
         },
         {
           "props": {
-            "uid": "87b8a7b3-b43b-4b99-8ff6-30ec9bf90f38",
+            "uid": "6338c622-f2e0-45f8-951b-607a0fa82b30",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-d/Disney-Pixar%20Bichos%20Una%20Aventura%20en%20Miniatura%20%28Spain%29.chd"
+              "https://archive.org/download/twisted-metal-4-usa/Theme%20Hospital%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CSv%29.chd"
             ],
             "skipBios": true
           },
           "type": "psx",
-          "title": "Disney-Pixar A Bug's Life",
-          "description": "Based on the Disney/Pixar 3D animated film, you must guide Flik as he sets out to find a group of warrior insects to help his colony of ants to fight off the hungry grasshoppers.\n\nTravel through the 3D insect world, using the many elements of nature to fight the enemy, to get to the end of each stage, in turn saving fellow ants and knocking the grasshoppers quest for ant domination on the head.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney-Pixar%20A%20Bug's%20Life%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney-Pixar%20A%20Bug's%20Life%20(Europe).png",
+          "title": "Theme Hospital",
+          "description": "Theme Hospital es un videojuego de simulación desarrollado por Bullfrog Productions y publicado por Electronic Arts en 1997, en el cual el jugador diseña y opera un hospital. Como la mayoría de los juegos de Bullfrog Theme Hospital está impregnado de un excéntrico sentido del humor. Este juego es el sucesor espiritual de Theme Park, un juego también producido por Bullfrog.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Theme%20Hospital%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Theme%20Hospital%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt%2CSv).png",
           "backgroundPixelated": true,
-          "added": 1783803524454
+          "added": 1707254486862
         },
         {
           "props": {
-            "uid": "d2e6f246-d081-42fd-a64b-9c97b949a177",
+            "uid": "26a08f5b-0352-4864-bce7-d10c5d8dec63",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-d/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20al%20Rescate%21%20%28Spain%29.chd"
+              "https://myrient.erista.me/files/Internet%20Archive/chadmaster/chd_psx_eur/CHD-PSX-EUR/Theme%20Park%20World%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
             ],
             "skipBios": true
           },
           "type": "psx",
-          "title": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!",
-          "description": "",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue!%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue!%20(Europe).png",
+          "title": "Theme Park World",
+          "description": "Para muchos fue el punto de partida en los juegos de simulación (para un servidor incluido).\nCuando te quieres dar cuenta, estas en una debacle de montañas rusas en primera persona, y limpieza de vómitos (también en primera persona...)\n*El juego ofrece solo la versión parque de prueba, pronto dispondremos de la versión completa.",
+          "thumbnail": "data:image/jpeg;base64,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",
+          "background": "https://m.media-amazon.com/images/M/MV5BNDFmY2FiODUtNTEwOC00MTBlLThiMjUtOTkzZGNjOGYzYWQ0XkEyXkFqcGc@._V1_QL75_UX388_.jpg",
+          "added": 1707253994697
+        },
+        {
+          "props": {
+            "uid": "bbfd2784-0ec1-43dd-8445-60518cc09e01",
+            "discs": [
+              "https://archive.org/download/twisted-metal-4-usa/Tomb%20Raider%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Tomb Raider",
+          "description": "En este juego se forjo la leyenda!\nLa primera aventura de Lara Croft, en su búsqueda por el mundo de los tres misteriosos artefactos de Scion.\nSpoiler: No, Lara desnuda y la escena de la ducha son leyendas urbanas, lo siento.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20(Europe).png",
           "backgroundPixelated": true,
-          "added": 1783803678099
+          "added": 1707254357575
         },
         {
           "props": {
-            "uid": "c11f324b-72ae-4a74-9f6d-a2273701914f",
+            "uid": "ff30f01a-5c54-414a-af6d-77a7380a0f91",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-d/Dino%20Crisis%20%28Spain%29.chd"
+              "https://archive.org/download/twisted-metal-4-usa/Tomb%20Raider%20Chronicles%20%28Spain%29.chd"
             ],
             "skipBios": true
           },
           "type": "psx",
-          "title": "Dino Crisis",
-          "description": "Three years ago a brilliant scientist disappeared while researching a new form of energy. The government that funded his research wrote the whole affair off as a loss, which made it all the more upsetting when reports of Dr. Kirk's good health and nearly finished research came in. A special forces team is sent to the doctor's private island laboratory to extract him and his research, but they are totally unprepared for some of the side effects of his developments. Side effects that come from 100 million years in the past.\n\nDino Crisis is a survival horror game that is very similar in both control and gameplay to its sister series, Resident Evil. As in that series, protagonist Regina will have limited supplies and ammo with which to fight deadly enemies while searching rooms for keys (some figurative, some literal) to open locked areas. Unlike Resident Evil games, Regina will find very few actual supplies laying around, and will instead find \"plugs\" that are used to open caches of emergency supplies located around the complex. There are only enough plugs to open some of these caches, however, so care must be taken to decide what items are really needed. In another change from Resident Evil, the game is rendered in 3D, allowing the camera to rotate or pan, although camera angles are still out of the control of the player. Even the dumbest dinosaur is smarter than the undead, and enemies can chase and disarm Regina, and even occasionally follow her through doors.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Dino%20Crisis%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Dino%20Crisis%20(Europe).png",
+          "title": "Tomb Raider Chronicles",
+          "description": "Just when the world had come to agree that Lara is finally a thing of the past, along comes a new collection of levels for our lovely Lara Croft to tackle. Each of the four chapters center around a different area of Lara's past, from the very start of her life (as a teen raider!!) to just before her death. Chronicles also includes a level editor, allowing the player to create new Tombs for Lara to raid.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20Chronicles%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20Chronicles%20(Europe).png",
           "backgroundPixelated": true,
-          "added": 1783803795017
+          "added": 1783802035281
         },
         {
           "props": {
-            "uid": "4a2b9940-0903-4288-8775-8142c0845048",
+            "uid": "26a08f5b-0352-4864-bce7-d10c5d8dec63",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-d/Destrega%20%28Spain%29.chd"
+              "https://archive.org/download/twisted-metal-4-usa/Tombi%21%20%28Europe%29%20%28En%2CEs%2CPt%2CSv%2CDa%29.chd"
             ],
             "skipBios": true
           },
           "type": "psx",
-          "title": "Destrega",
-          "description": "Destrega is one of the first fighting games to focus more on long range attacks and use of interactive backgrounds than close-up fisticuffs.\n\nThe story revolves around a battle for control of relics left a millennia ago by the Strega - mysterious beings with benevolent gifts of powers to human beings.",
-          "thumbnail": "",
-          "background": "",
-          "added": 1783803855192
+          "title": "Tombi!",
+          "description": "Siete \"Cerdiablos\" usan poderes mágicos para transformar el continente en un extraño territorio. Los subalternos de los Cerdiablos, los Cerdos Koma, roban una gran cantidad de oro y a Tombi le roban el brazalete de su abuelo. La misión de Tombi es liberar las partes malditas del continente y derrotar a los Cerdiablos para recuperar su brazalete",
+          "thumbnail": "https://images.squarespace-cdn.com/content/v1/574bec3527d4bdfe229ea099/1536030576120-CX02CVN1PNZVUQG8WL0A/tombi.png",
+          "background": "https://upload.wikimedia.org/wikipedia/it/6/64/Tombi.png",
+          "added": 1707253994697
         },
         {
           "props": {
-            "uid": "af441644-52ff-4622-b1e4-0eb0c9676602",
+            "uid": "45237ae8-e0a9-4429-8ebf-4d828bbd6029",
             "discs": [
-              "https://archive.org/download/psx-chd-roms-c/Croc%20-%20Legend%20of%20the%20Gobbos%20%28Europe%29.chd"
+              "https://archive.org/download/psx-chd-roms-u-z/V2000%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
             ],
             "skipBios": true
           },
           "type": "psx",
-          "title": "Croc - Legend of the Gobbos",
-          "description": "All is not well in Croc's world.  His friends, the Gobbos, have been captured by the evil Baron Dante.  It is your mission in this 3D platformer to search through 42 different levels to save all of your friends before it's too late.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Croc%20-%20Legend%20of%20the%20Gobbos%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Croc%20-%20Legend%20of%20the%20Gobbos%20(Europe).png",
+          "title": "V2000",
+          "description": "Lo reconozco, este juego no lo conocéis ninguno, pero yo lo tengo en la cabeza desde que lo jugué en una demo allá por los 90.\nManejas una nave y debes ir salvando inocentes y destruyendo mutaciones a través de planetas en perfecto 3D",
+          "thumbnail": "https://i.ytimg.com/vi/rH9rbzjG9qI/maxresdefault.jpg",
+          "background": "https://i.ytimg.com/vi/9sL77YETmn8/maxresdefault.jpg",
+          "added": 1743113732590
+        },
+        {
+          "props": {
+            "uid": "9e8b430e-0fea-468a-beb1-b21b2350254c",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-u-z/WipEout%203%20-%20Special%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "WipEout 3 - Special Edition",
+          "description": "This special edition of Wipeout 3 (or Wip3out) has all the tracks from Wip3out, 3 from the original Wipeout and 5 from Wipeout 2097 (A.K.A. Wipeout XL) and some improvements around the original Wip3out tracks. The game menu has also been improved. I.E. the small fonts in the original Wip3out have been enlarged and the default name screen also includes numbers now.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/WipEout%203%20-%20Special%20Edition%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/WipEout%203%20-%20Special%20Edition%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
           "backgroundPixelated": true,
-          "added": 1783804000365
-        },
-        {
-          "props": {
-            "uid": "924f4cb3-de5c-42b0-b452-86916933581b",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-c/Croc%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Croc 2",
-          "description": "Croc is on a quest to find his parents. However, Baron Dante has kidnapped the Gobbos kings. Croc then turns his attention to rescue all of the Gobbos kings.\n\nYou travel across 48 levels in this free roaming 3D game. You have to beat all the levels in a village (except the secret level) to move on to the next one. In each village, (except the 4th village) are 5 regular levels, 2 bosses, and 1 secret level. Regular levels are levels where you just beat them and get certain items in them.\n\nBosses are levels where you go through one section then fight a monster at the end. Secret levels are levels where you collect the jigsaw piece. Once you collect the jigsaw piece in all 4 secret levels and defeat Baron Dante, Swap Meet Pete will take you to the lost levels.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Croc%202%20(Europe)%20(Demo).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Croc%202%20(Europe)%20(Demo).png",
-          "backgroundPixelated": true,
-          "added": 1783804023892
-        },
-        {
-          "props": {
-            "uid": "2b97c44e-8716-416d-a39b-35d0d2534294",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-b/Bloody%20Roar%202%20-%20Bringer%20of%20the%20New%20Age%20%28Europe%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Bloody Roar II",
-          "description": "Bloody Roar II is a 3D fighting game of the Tekken, or more accurately, Fighting Vipers school of gameplay. The hook of the Bloody Roar series is that your combatants can transform into animalistic versions of themselves -- human-animal hybrids with a thirst for violence. During each round you can fight as a person or transform into a beast when your meter fills up. As an animal you'll have more moves at your disposal with which to destroy your opponent.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Bloody%20Roar%20II%20(USA).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Bloody%20Roar%20II%20(USA).png",
-          "backgroundPixelated": true,
-          "added": 1783804072971
-        },
-        {
-          "props": {
-            "uid": "28624c43-d577-489a-8e93-6920e3a08b0c",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-l/Legacy%20of%20Kain%20-%20Soul%20Reaver%20%28Spain%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Legacy of Kain - Soul Reaver",
-          "description": "1500 years after Blood Omen: Legacy of Kain, the vampire Kain's decision at the end of that game has finally defeated the human kingdoms and brought the world of Nosgoth under his control. Ruling from a castle built on the Pillars of Nosgoth, Kain has established an empire of six vampire clans, each ruled by a lieutenant, the sons of Kain. Raziel was one such lieutenant, but lost his position through the \"insolence\" of receiving a new evolutionary \"dark gift\", the growth of feathery wings, before his master had acquired it. Fearing that Raziel might one day surpass him, Kain tears off Raziel's wings in a fit of range and banishes him into the Abyss.  There, Raziel is lost in time, died and his body consumed. The Elder God recovers Raziel's soul and rebuilds the broken body, not as a living vampire, but as a strange new creature of the underworld. Swearing revenge on Kain, Raziel now phases seamlessly between Nosgoth and it's underworld, using his new powers to become a terrible reaver of souls...\n\nSoul Reaver is a 3rd person action-adventure title that follows Raziel on his quest to purge the land of vampires and take revenge on Kain and his brothers, leaders of the six clans. The player controls the game from behind Raziel's shoulder, moving him in any direction, climbing, attacking, jumping and using specific abilities. Raziel's can grip onto the edge of ledges and his torn wings allow him to glide gently downwards. Raziel can shift through the \"material\" world into the \"spectral\" realm at will... but must find specific locations in order to shift back. The two realms mirror one another, with distortions which give access to new areas and platforms. Existing in the material world drains Raziel's life energy at a constant rate.  Throughout the game, energy is recovered by consuming the souls of defeated enemies. If Raziel is able to defeat one of his brothers, he will additionally gain a new ability (\"dark gift\") upon drinking it's soul. Examples include: the ability to swim, file telekinetic projectiles or the ability to phase through locked gates. Raziel can arm himself with a variety of weapons including spears, daggers, swords, axes, as well as attacking enemies barehanded. Eventually, Raziel will also come across Kain's personal sword (named the Soul Reaver), and will use it to create a powerful energy blade weapon.\n\nThe world is left open to Raziel, he can return to areas previously completed and explore the world of Nosgoth at will. Access to certain areas however sometimes  requires the use of gained specific abilities. Many of the puzzles the player will need to solve in this quest are \"block puzzles\", requiring the placement of certain large structures (usually square blocks), either to activate switches or to build access to out-of-reach areas.",
-          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Legacy%20of%20Kain%20-%20Soul%20Reaver%20(Europe).png",
-          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Legacy%20of%20Kain%20-%20Soul%20Reaver%20(Europe).png",
-          "backgroundPixelated": true,
-          "added": 1783804434021
-        },
-        {
-          "props": {
-            "uid": "caf1b4de-9af2-4c6f-bc2b-210447c1f777",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-n/Net%20Yaroze%20%28Europe%29%20%28Demo%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Net Yaroze",
-          "description": "",
-          "thumbnail": "",
-          "background": "",
-          "added": 1783804705808
-        },
-        {
-          "props": {
-            "uid": "a83e62b8-d4d9-45f8-854c-7a39324c3f4a",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-e/Euro%20Demo%2027%20%28Europe%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Euro Demo 27",
-          "description": "",
-          "thumbnail": "",
-          "background": "",
-          "added": 1783804799782
-        },
-        {
-          "props": {
-            "uid": "a3100ba9-ea50-4d68-a2f3-2071962f017a",
-            "discs": [
-              "https://archive.org/download/psx-chd-roms-k/Kingsley%27s%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.chd"
-            ],
-            "skipBios": true
-          },
-          "type": "psx",
-          "title": "Kingsley's Adventure",
-          "description": "Kingsley's Adventure is a 3D Action/Adventure game for the PlayStation in a similar vein as The Legend of Zelda. In the game, you play an orphaned fox called Kingsley who was adopted by the king and queen of the Fruit Kingdom. For the most part of his life he, lived in the Carrot Castle where he was being tutored by an wise badger into the ways of a warrior and true knight.\n\nWhen a former cook from the castle is fired after being accused of food poisoning, he takes a turn for the worse. He steals the queen's spellbook and enchants the king's soldiers so he can take over the castle and thus control of the Fruit Kingdom. Now it is up to the player as Kingsley to save the day. But before you can really save the day, the young Kingsley will have to prove his valor and honor as a knight.\n\nKingsley can collect items, talk to the inhabitants of the Fruit Kingdom and fight enemies with various weapons such as a sword, axe, knife and crossbow. He will have to dodge cannonballs, crushing blocks and buzzing saws. Activate switches and open locks, jump over dangerous terrain and collect power-ups and items.\n\nWin the trust of villagers in the kingdom by helping them solving their troubles and clearing dungeons. Find a way into fortresses to defeat the dark knights in order to restore peace to the kingdom.",
-          "thumbnail": "",
-          "background": "",
-          "added": 1783805026634
+          "added": 1783802499632
         }
       ],
       "thumbnail": "https://i.blogs.es/434743/psx/840_560.png",
@@ -4995,6 +4995,12 @@
         }
       ],
       "background": "https://i.pinimg.com/originals/d0/e0/e2/d0e0e259bf0aba4da742bedff1d4b8a5.gif"
+    },
+    {
+      "title": "Nintendo NES",
+      "thumbnail": "https://pluspng.com/img-png/nes-png-nintendo-entertainment-system-console-png-3300.png",
+      "background": "https://wallpapercave.com/wp/wp4606934.jpg",
+      "backgroundPixelated": true
     }
   ],
   "backgroundPixelated": false
