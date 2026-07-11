@@ -650,9 +650,545 @@
           "background": "https://pics.filmaffinity.com/star_wars_episode_i_the_phantom_menace_videogame-295483002-large.jpg",
           "backgroundPixelated": true,
           "added": 1783800047574
+        },
+        {
+          "props": {
+            "uid": "b4437805-ede4-49dd-9dc7-fba83682f47d",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Metal%20Gear%20Solid%20%28Spain%29%20%28Disc%201%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Metal Gear Solid",
+          "description": "Metal Gear Solid is a sequel to Metal Gear 2: Solid Snake. After the tragic confrontation with Big Boss, the hero, special agent Solid Snake, decided to retire and has since then lived in a secluded region in Alaska. But the US government recruits him once again for a dangerous mission. The members of Foxhound, a renegade special forces unit, threaten to use a devastating nuclear weapon if the government doesn't hand them the mortal remains of Big Boss, their former commander. Foxhound is now led by a talented, ambitious young man with the codename Liquid Snake. Knowing that the visual resemblance between this new terrorist mastermind and himself can not be coincidental, Solid Snake agrees to infiltrate the new Foxhound base, to destroy the unknown nuclear weapon, and to find the truth about his own identity.\n\nThe gameplay in Metal Gear Solid follows the prototype established in the two classic Metal Gear games. Solid Snake has a limited arsenal of weapons and cannot allow himself to pave his way to the goal by killing all the enemies. He has to stay unnoticed, to hide, to crawl, to wait for the right moment, to sneak, and to use various gadgets that will prevent him from alerting the enemy. The game utilizes traditional top-down view, but the graphics in this installment are real-time 3D.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Metal%20Gear%20Solid%20(Asia)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Metal%20Gear%20Solid%20(Asia)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1783801197113
+        },
+        {
+          "props": {
+            "uid": "1cd496b7-dc3d-4422-aa65-b9124f6d2776",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-r/Rascal%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Rascal",
+          "description": "In Rascal, you must rescue your kidnapped father, a professor,  from the clutches of the evil Chronon. Chronon is using Rascal's father to perfect time travel for his evil plans and it's up to you to stop him. You are armed with a bubble-blowing gun to take on Chronon minions as you travel through time. There are six worlds to explore which include a Medieval castle, the Wild West, Atlantis, a Pirate Ship, Prehistoric times and the Time Dimension. Each world has three time zones covering the past, the present and the future.\nIn each of those levels you assemble an hourglass of six pieces, which teleports you back home.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Rascal%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Rascal%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783801283079
+        },
+        {
+          "props": {
+            "uid": "545e6182-a0e7-49cd-b18b-f07b4f3484ea",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-r/Rayman%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Rayman",
+          "description": "When a villain known only as Mr. Dark appears, trouble brews in Rayman's world.  Mr. Dark captures the Toons - source of light and Rayman's friends.  With no more light, evil creatures begin to roam, making the world unsafe for everyone.  Its up to you, as Rayman, to free your friends and put an end to Mr. Dark's dastardly schemes!\n\nRayman is side-scrolling platformer starring the titular Rayman, a big-nosed chap with no arms or legs.  Rayman can jump and use his hair to hover for a short period of time.  He can also attack by throwing his fists, or winding up his fists for a more powerful punch.  He can occasionally find special power ups that grant him unlimited flying power, giving him the ability to navigate through tricky mazes.\n\nAside from the platforming action, the other notable feature of Rayman is its large, detailed and vibrant graphics, which have helped it to stand out from most other similar games in the genre.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Rayman%20(Europe)%20(En%2CFr%2CDe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Rayman%20(Europe)%20(En%2CFr%2CDe).png",
+          "backgroundPixelated": true,
+          "added": 1783801325342
+        },
+        {
+          "props": {
+            "uid": "6f6216e2-df4c-445c-94e8-d51ea8235275",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-r/Resident%20Evil%20-%20Director%27s%20Cut%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Resident Evil - Director's Cut",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Resident%20Evil%20-%20Director's%20Cut%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Resident%20Evil%20-%20Director's%20Cut%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783801380949
+        },
+        {
+          "props": {
+            "uid": "c36b5e34-dd36-475e-af3b-92600e18dc62",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-r/Resident%20Evil%202%20%28Spain%29%20%28Disc%201%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Resident Evil 2",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Resident%20Evil%202%20(Europe)%20(Disc%201).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Resident%20Evil%202%20(Europe)%20(Disc%201).png",
+          "backgroundPixelated": true,
+          "added": 1783801482491
+        },
+        {
+          "props": {
+            "uid": "ed29c49a-32b5-4008-9e65-df3be44b413e",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-r/Ridge%20Racer%20Type%204%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "R4 - Ridge Racer Type 4",
+          "description": "Developed exclusively for the Sony Playstation, this fourth title in the Ridge Racer series features new visuals, powered by goraud-shaded polygons, giving each car and track a more refined appearance, while keeping the same arcade gameplay popularized by the first game of the series.\n\nWhile it includes the usual time attack and a new split-screen versus mode, the focus of the game is the Real Racing Roots '99, Ridge City's three heat, seven race championship, with the grand finale in a speedway during New Year's Eve.\n\nThe player starts by choosing one of the four teams available (from easiest to harder): Micro Mouse Mappy, directed by the lovely Sophie Chevalier who hopes to win the first title in many years for the French team to honour her ill grandfather, Pac Racing Team, a recently created Japanese team directed by Shinji Yazaki who expects to create an immediate splash in the Ridge City racing scene, from Italy the RRR champions Racing Team Solvalou, with the demanding Enki Gilbert at the helm, and the American team Dig Racing Team, who has fallen into financial difficulties, with team director Robert Chrisman struggling to provide the driver with a car capable of out-handling opponents.\n\nAfter picking a team, the player can choose one of the four car makers available: Lizard and Assoluto keep the old RR tradition of cars drifting wildly on corners, but Age Solo and Terrazi offer a new experience with their \"Grip\" cars that require more breaking and careful trajectories, but are easier to control during turns.\n\nThe player earns (and so, unlocks for free play) cars by completing races; however, final placement defines how good the car will be. By scraping through the first two heats (the Final GP accepts nothing but a victory), sponsors will be unwilling to invest in the team and instead of a new car, the mechanics will only upgrade the current vehicle. But winning all races allows the driver to reach the Shooting Hoops speedway with the fastest car. By combining all qualifying placements, 320 cars are waiting to be unlocked.\n\nR4 Ridge Racer Type 4 also includes an extra disk, featuring the original Ridge Racer in higher resolution. For a time, the game was also sold as a bundle along Namco's innovative Jogcon controller.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/R4%20-%20Ridge%20Racer%20Type%204%20(Japan)%20(R4%20%2B%20JogCon).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/R4%20-%20Ridge%20Racer%20Type%204%20(Japan)%20(R4%20%2B%20JogCon).png",
+          "backgroundPixelated": true,
+          "added": 1783801546410
+        },
+        {
+          "props": {
+            "uid": "f86f4350-85f5-4877-9d59-0ba362d616e9",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-r/Road%20Rash%203D%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Road Rash 3D",
+          "description": "For the first time, Road Rash is now in full 3-D, with the same gameplay that made previous versions addictive since the first Road Rash game that was released in 1991!.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Road%20Rash%203D%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Road%20Rash%203D%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783801583514
+        },
+        {
+          "props": {
+            "uid": "6a15f276-6a35-4669-8434-30b188fb888d",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Marranos%20en%20Guerra%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Marranos en Guerra",
+          "description": "Command a regiment of hogs through different battlefields - all with the same mission: eliminate the enemy.\n\nGameplay is comparable to the Worms-games, but Hogs Of War comes completely in 3D.\nYou also have here lots of cool weapons and the possibility to give your hogs special jobs like: sniper, medic, ...",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Hogs%20of%20War%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Hogs%20of%20War%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783801691639
+        },
+        {
+          "props": {
+            "uid": "f87b1a73-b8c1-4b46-85cc-32542699c857",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Street%20Fighter%20Alpha%202%20%28USA%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Street Fighter Alpha 2",
+          "description": "Another Street Fighter sequel (this time for Street Fighter Alpha) adds even more to the classic fighting series.\n\nNew characters in this version include Gen (a wise kung-fu master), Rolento (who you may remember from another Capcom classic, Final Fight) and Sakura, a young school girl who follows her hero Ryu so close, she has the same type of moves. Dhalsim and Zangief also return to the fight with some news moves.\n\nThe other major difference is the loss of chain-combos and the gain of a custom combo system. Once you reach the required level (which is 1 at the least) you can execute a custom combo by combining any of the buttons (which there are 6 in total) or any of the special attacks (fireballs, etc.)",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Street%20Fighter%20Alpha%202%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Street%20Fighter%20Alpha%202%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783801751318
+        },
+        {
+          "props": {
+            "uid": "20764df4-61a5-4d37-83ba-ae10383b9c17",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Medal%20of%20Honor%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Medal of Honor",
+          "description": "Medal of Honor is the first in the long-running series of World War II shooters, originally created by Steven Spielberg. The play assumes the role of Lt. Patterson who has to complete different tasks in the OSS. The missions vary from securing a small French village from any Nazi forces, to taking out a Heavy armored German rail gun. The player has access to a wide selection of antique weapons such as P38 pistols, M1 Garand carabines, MP40's and more. The goals also include undercover missions. Split-screen multiplayer is supported for two players.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Medal%20of%20Honor%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Medal%20of%20Honor%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783801793134
+        },
+        {
+          "props": {
+            "uid": "fa3ee23a-0b96-4b76-9cdd-5f37407d588f",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Mr.%20Driller%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Mr. Driller",
+          "description": "Mr Driller's world has been covered with mysterious blocks. Armed with only a mighty drill, you'll have to dig your way down to safety before his air supply runs out!\n\nMr Driller is a real-time puzzle game that relies solely on quick-thinking and a bit of planning.  Gameplay is a combination of Tetris and Boulder Dash: You have to drill down through multi-colored blocks to reach the bottom while avoiding the consequences of reckless drilling (blocks may fall on you and crush you).",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Mr.%20Driller%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Mr.%20Driller%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1783801852124
+        },
+        {
+          "props": {
+            "uid": "8f5ff53c-1e08-4198-a321-77d78726baa6",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-p/PaRappa%20the%20Rapper%20%28USA%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "PaRappa the Rapper",
+          "description": "The rapping pup, PaRappa, dreams of impressing his friend, the beautiful Sunny Funny, and going out on a date with her.  But what he lacks is confidence - help PaRappa rap his way through learning Kung Fu, a driving test, cooking and more, all in order to get the girl.  And remember - You Gotta Believe!\n\nPaRappa the Rapper is a game based on lyrics, music and rhythm.  The game itself is very basic - each stage has a 'teacher', that PaRappa must follow.  You'll see the teacher say some lyrics, and then PaRappa must copy the teacher by pressing the appropriate buttons to repeat those lyrics back.  Rap well, and you'll be able to continue; fudge up the lyrics, and the music will start to distort and the teacher will become displeased.  Continue to mess up and you'll fail the stage.\n\nOf course, the goal is not to copy the teacher, but instead to outperform them - you can do this by improvising in the song's gaps.  Listen to how the song goes, and improvise in time to the music; if you perform well enough, the teacher will step aside, leaving you to freestyle on your own!\n\nThe PSP version of the game is a remake of the PlayStation original.  However, it includes a few upgrades, such as a 16:9 display, sharper graphics, game sharing, multiplayer support of up to four players, and the addition of song remixes, which can be downloaded via the internet onto your Memory Stick Duo.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/PaRappa%20the%20Rapper%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/PaRappa%20the%20Rapper%20(Japan).png",
+          "backgroundPixelated": true,
+          "added": 1783801957987
+        },
+        {
+          "props": {
+            "uid": "ff30f01a-5c54-414a-af6d-77a7380a0f91",
+            "discs": [
+              "https://archive.org/download/twisted-metal-4-usa/Tomb%20Raider%20Chronicles%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Tomb Raider Chronicles",
+          "description": "Just when the world had come to agree that Lara is finally a thing of the past, along comes a new collection of levels for our lovely Lara Croft to tackle. Each of the four chapters center around a different area of Lara's past, from the very start of her life (as a teen raider!!) to just before her death. Chronicles also includes a level editor, allowing the player to create new Tombs for Lara to raid.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Tomb%20Raider%20Chronicles%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Tomb%20Raider%20Chronicles%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783802035281
+        },
+        {
+          "props": {
+            "uid": "9e8b430e-0fea-468a-beb1-b21b2350254c",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-u-z/WipEout%203%20-%20Special%20Edition%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "WipEout 3 - Special Edition",
+          "description": "This special edition of Wipeout 3 (or Wip3out) has all the tracks from Wip3out, 3 from the original Wipeout and 5 from Wipeout 2097 (A.K.A. Wipeout XL) and some improvements around the original Wip3out tracks. The game menu has also been improved. I.E. the small fonts in the original Wip3out have been enlarged and the default name screen also includes numbers now.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/WipEout%203%20-%20Special%20Edition%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/WipEout%203%20-%20Special%20Edition%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt).png",
+          "backgroundPixelated": true,
+          "added": 1783802499632
+        },
+        {
+          "props": {
+            "uid": "03ff4974-c5c6-4e2b-bc1e-c036e0fb432d",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Silent%20Bomber%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Silent Bomber",
+          "description": "Silent Bomber is an old school style game which takes place in the future.  You play as a character named Jutah Fate, a genetically engineered man created by the government.  You're an expert at using bombs.  You start out being able to set only a few bombs at a time, but eventually you can increase the number by collecting E-Chips.   It's a fast paced game of blowing things up before they blow you up.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Silent%20Bomber%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Silent%20Bomber%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783802589511
+        },
+        {
+          "props": {
+            "uid": "3c4ab75d-0df2-4587-a7cb-0d4e791258cd",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Sheep%2C%20Dog%20%27n%27%20Wolf%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Looney Tunes - Sheep Raider",
+          "description": "Help a starving Ralph Wolf steal sheep from Sam Sheep Dog. With an arsenal of Acme equipment at his disposal, Ralph is sure to concoct the perfect plan for keeping his stomach filled, or not!\nThe game takes place across 15 stages, each with their own requirements and challenges, so the longevity of the game is notable.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Looney%20Tunes%20-%20Sheep%20Raider%20(USA)%20(En%2CFr%2CEs%2CPt).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Looney%20Tunes%20-%20Sheep%20Raider%20(USA)%20(En%2CFr%2CEs%2CPt).png",
+          "backgroundPixelated": true,
+          "added": 1783802653846
+        },
+        {
+          "props": {
+            "uid": "32c6f6e3-d015-4add-830f-e8df856f5a51",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Shadow%20Madness%20%28Spain%29%20%28Disc%201%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Shadow Madness",
+          "description": "Something is going wrong in the land of Arkose: cities destroy themselves, monsters attack innocent citizens, diseases spread among the people. A giant blast has destroyed a whole town, only a young guy named Stinger narrowly escaped death. Stinger engages himself on a quest to avenge his hometown's destruction. On his journey he meets the beautiful elven girl Windleaf and the robot Harv-5, who help him to reach his ultimate goal.\n\nAlthough it all seems like a typical Japanese RPG, it is not. Shadow Madness was developed and produced in the USA, although, beyond any doubt, the Final Fantasy series has been the main source of inspiration here. The battles are random, like in many Japanese RPGs, and the battle system is almost the same like in Final Fantasy games: menu-based, with several sub-menu choices. The graphics are in 3D with polygonal characters in anime/manga style (what some people call \"deformed\").",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Shadow%20Madness%20(Europe)%20(Disc%201).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Shadow%20Madness%20(Europe)%20(Disc%201).png",
+          "backgroundPixelated": true,
+          "added": 1783802904593
+        },
+        {
+          "props": {
+            "uid": "9d3c79c2-bb78-4dc2-9642-d920b905ec27",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/S.C.A.R.S.%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "S.C.A.R.S.",
+          "description": "In the world of 3000 AD, the world is run by 9 different supercomputers, who are horribly bored, so they created this virtual reality simulation to race each other. The cars are based on the attributes of extinct Terran animals. Race nine different cars (some need to be unlocked) on nine different tracks. You can race, or you can shoot your opponents with the nine different weapons. Plenty of multiplayer options (including split screen on PC).",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/S.C.A.R.S.%20(Europe)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/S.C.A.R.S.%20(Europe)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1783802952624
+        },
+        {
+          "props": {
+            "uid": "7169988d-3bf5-4e3b-95d9-baf1245e35e0",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-m/Moto%20Racer%202%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Moto Racer 2",
+          "description": "Delphine's sequel to their popular Moto Racer, MR2 features more tracks, several different \"championship\" modes, an enhanced Direct3D graphics engine, and a track editor for creating your own superbike and motocross tracks.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Moto%20Racer%202%20(Europe)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Moto%20Racer%202%20(Europe)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1783803119909
+        },
+        {
+          "props": {
+            "uid": "28f8f625-a025-4dc3-8307-ae837e0eed26",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-k/King%20of%20Fighters%20%2799%2C%20The%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "King of Fighters '99, The",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/King%20of%20Fighters%20'99%2C%20The%20(Japan).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/King%20of%20Fighters%20'99%2C%20The%20(Japan).png",
+          "backgroundPixelated": true,
+          "added": 1783803178236
+        },
+        {
+          "props": {
+            "uid": "74beb04f-0459-4d17-823a-fa0fe1ef9e94",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-k/King%20of%20Fighters%20%2799%2C%20The%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Gran Turismo 2",
+          "description": "Second game in the Gran Turismo series of racing games exclusively for the PlayStation. Features 20  tracks and over 400 vehicles! It features an arcade mode and a simulation mode, and also supports wild two player split screen racing!",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Gran%20Turismo%202%20(Europe)%20(En%2CFr%2CDe%2CEs%2CIt)%20(Disc%201)%20(Arcade%20Mode).png",
+          "backgroundPixelated": true,
+          "added": 1783803254891
+        },
+        {
+          "props": {
+            "uid": "1d40edb7-0679-413d-be67-ecfbb67101d2",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-e/Esto%20es%20Futbol%202%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Esto Es Futbol 2",
+          "description": "",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783803353705
+        },
+        {
+          "props": {
+            "uid": "8a7cc593-2012-4c19-ba75-156eacdb1aa5",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Disney%27s%20Hercules%20Action%20Game%20%28USA%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Disney's Hercules Action Game",
+          "description": "The game is based on Disney's animated cartoon movie. You take control of Hercules, son of the god Zeus and a mortal woman, the strongest man in the world and the legendary hero in the Greek mythology. Your goal is to prove yourself worthy of being admitted to Mount Olympus, the residence of gods, and to become a god yourself. You must commit heroic deeds and overcome various obstacles to show your strength and courage. Hades, the overlord of the dead, is making it even more difficult for you by sending fearsome Titans to stop you.\n\nThis is a 2D platform action game. Hercules can jump, grab ledges, swing on poles, and jump while running. He has a variety of attack moves at his disposal. He can execute a basic attack with his sword, or pull out different combo attacks. He can also Power Punch enemies, but he needs time to charge for this powerful attack. He can even slam the ground to reveal secret areas by performing a certain move while jumping. There are also different power-ups to collect, such as coins to grant bonus points at the end of the level, Hercules Action Figures to increase your hero rating, and upgrades to your sword - Sonic, Lightning, and Fireball swords.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney's%20Hercules%20Action%20Game%20(USA).png",
+          "backgroundPixelated": true,
+          "added": 1783803481255
+        },
+        {
+          "props": {
+            "uid": "87b8a7b3-b43b-4b99-8ff6-30ec9bf90f38",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Disney-Pixar%20Bichos%20Una%20Aventura%20en%20Miniatura%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Disney-Pixar A Bug's Life",
+          "description": "Based on the Disney/Pixar 3D animated film, you must guide Flik as he sets out to find a group of warrior insects to help his colony of ants to fight off the hungry grasshoppers.\n\nTravel through the 3D insect world, using the many elements of nature to fight the enemy, to get to the end of each stage, in turn saving fellow ants and knocking the grasshoppers quest for ant domination on the head.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney-Pixar%20A%20Bug's%20Life%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney-Pixar%20A%20Bug's%20Life%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783803524454
+        },
+        {
+          "props": {
+            "uid": "d2e6f246-d081-42fd-a64b-9c97b949a177",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20al%20Rescate%21%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Disney-Pixar Toy Story 2 - Buzz Lightyear to the Rescue!",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue!%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Disney-Pixar%20Toy%20Story%202%20-%20Buzz%20Lightyear%20to%20the%20Rescue!%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783803678099
+        },
+        {
+          "props": {
+            "uid": "c11f324b-72ae-4a74-9f6d-a2273701914f",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Dino%20Crisis%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Dino Crisis",
+          "description": "Three years ago a brilliant scientist disappeared while researching a new form of energy. The government that funded his research wrote the whole affair off as a loss, which made it all the more upsetting when reports of Dr. Kirk's good health and nearly finished research came in. A special forces team is sent to the doctor's private island laboratory to extract him and his research, but they are totally unprepared for some of the side effects of his developments. Side effects that come from 100 million years in the past.\n\nDino Crisis is a survival horror game that is very similar in both control and gameplay to its sister series, Resident Evil. As in that series, protagonist Regina will have limited supplies and ammo with which to fight deadly enemies while searching rooms for keys (some figurative, some literal) to open locked areas. Unlike Resident Evil games, Regina will find very few actual supplies laying around, and will instead find \"plugs\" that are used to open caches of emergency supplies located around the complex. There are only enough plugs to open some of these caches, however, so care must be taken to decide what items are really needed. In another change from Resident Evil, the game is rendered in 3D, allowing the camera to rotate or pan, although camera angles are still out of the control of the player. Even the dumbest dinosaur is smarter than the undead, and enemies can chase and disarm Regina, and even occasionally follow her through doors.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Dino%20Crisis%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Dino%20Crisis%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783803795017
+        },
+        {
+          "props": {
+            "uid": "4a2b9940-0903-4288-8775-8142c0845048",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-d/Destrega%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Destrega",
+          "description": "Destrega is one of the first fighting games to focus more on long range attacks and use of interactive backgrounds than close-up fisticuffs.\n\nThe story revolves around a battle for control of relics left a millennia ago by the Strega - mysterious beings with benevolent gifts of powers to human beings.",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783803855192
+        },
+        {
+          "props": {
+            "uid": "af441644-52ff-4622-b1e4-0eb0c9676602",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Croc%20-%20Legend%20of%20the%20Gobbos%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Croc - Legend of the Gobbos",
+          "description": "All is not well in Croc's world.  His friends, the Gobbos, have been captured by the evil Baron Dante.  It is your mission in this 3D platformer to search through 42 different levels to save all of your friends before it's too late.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Croc%20-%20Legend%20of%20the%20Gobbos%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Croc%20-%20Legend%20of%20the%20Gobbos%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783804000365
+        },
+        {
+          "props": {
+            "uid": "924f4cb3-de5c-42b0-b452-86916933581b",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-c/Croc%202%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Croc 2",
+          "description": "Croc is on a quest to find his parents. However, Baron Dante has kidnapped the Gobbos kings. Croc then turns his attention to rescue all of the Gobbos kings.\n\nYou travel across 48 levels in this free roaming 3D game. You have to beat all the levels in a village (except the secret level) to move on to the next one. In each village, (except the 4th village) are 5 regular levels, 2 bosses, and 1 secret level. Regular levels are levels where you just beat them and get certain items in them.\n\nBosses are levels where you go through one section then fight a monster at the end. Secret levels are levels where you collect the jigsaw piece. Once you collect the jigsaw piece in all 4 secret levels and defeat Baron Dante, Swap Meet Pete will take you to the lost levels.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Croc%202%20(Europe)%20(Demo).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Croc%202%20(Europe)%20(Demo).png",
+          "backgroundPixelated": true,
+          "added": 1783804023892
+        },
+        {
+          "props": {
+            "uid": "2b97c44e-8716-416d-a39b-35d0d2534294",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-b/Bloody%20Roar%202%20-%20Bringer%20of%20the%20New%20Age%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Bloody Roar II",
+          "description": "Bloody Roar II is a 3D fighting game of the Tekken, or more accurately, Fighting Vipers school of gameplay. The hook of the Bloody Roar series is that your combatants can transform into animalistic versions of themselves -- human-animal hybrids with a thirst for violence. During each round you can fight as a person or transform into a beast when your meter fills up. As an animal you'll have more moves at your disposal with which to destroy your opponent.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Bloody%20Roar%20II%20(USA).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Bloody%20Roar%20II%20(USA).png",
+          "backgroundPixelated": true,
+          "added": 1783804072971
+        },
+        {
+          "props": {
+            "uid": "28624c43-d577-489a-8e93-6920e3a08b0c",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-l/Legacy%20of%20Kain%20-%20Soul%20Reaver%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Legacy of Kain - Soul Reaver",
+          "description": "1500 years after Blood Omen: Legacy of Kain, the vampire Kain's decision at the end of that game has finally defeated the human kingdoms and brought the world of Nosgoth under his control. Ruling from a castle built on the Pillars of Nosgoth, Kain has established an empire of six vampire clans, each ruled by a lieutenant, the sons of Kain. Raziel was one such lieutenant, but lost his position through the \"insolence\" of receiving a new evolutionary \"dark gift\", the growth of feathery wings, before his master had acquired it. Fearing that Raziel might one day surpass him, Kain tears off Raziel's wings in a fit of range and banishes him into the Abyss.  There, Raziel is lost in time, died and his body consumed. The Elder God recovers Raziel's soul and rebuilds the broken body, not as a living vampire, but as a strange new creature of the underworld. Swearing revenge on Kain, Raziel now phases seamlessly between Nosgoth and it's underworld, using his new powers to become a terrible reaver of souls...\n\nSoul Reaver is a 3rd person action-adventure title that follows Raziel on his quest to purge the land of vampires and take revenge on Kain and his brothers, leaders of the six clans. The player controls the game from behind Raziel's shoulder, moving him in any direction, climbing, attacking, jumping and using specific abilities. Raziel's can grip onto the edge of ledges and his torn wings allow him to glide gently downwards. Raziel can shift through the \"material\" world into the \"spectral\" realm at will... but must find specific locations in order to shift back. The two realms mirror one another, with distortions which give access to new areas and platforms. Existing in the material world drains Raziel's life energy at a constant rate.  Throughout the game, energy is recovered by consuming the souls of defeated enemies. If Raziel is able to defeat one of his brothers, he will additionally gain a new ability (\"dark gift\") upon drinking it's soul. Examples include: the ability to swim, file telekinetic projectiles or the ability to phase through locked gates. Raziel can arm himself with a variety of weapons including spears, daggers, swords, axes, as well as attacking enemies barehanded. Eventually, Raziel will also come across Kain's personal sword (named the Soul Reaver), and will use it to create a powerful energy blade weapon.\n\nThe world is left open to Raziel, he can return to areas previously completed and explore the world of Nosgoth at will. Access to certain areas however sometimes  requires the use of gained specific abilities. Many of the puzzles the player will need to solve in this quest are \"block puzzles\", requiring the placement of certain large structures (usually square blocks), either to activate switches or to build access to out-of-reach areas.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Legacy%20of%20Kain%20-%20Soul%20Reaver%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Legacy%20of%20Kain%20-%20Soul%20Reaver%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783804434021
+        },
+        {
+          "props": {
+            "uid": "caf1b4de-9af2-4c6f-bc2b-210447c1f777",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-n/Net%20Yaroze%20%28Europe%29%20%28Demo%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Net Yaroze",
+          "description": "",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783804705808
+        },
+        {
+          "props": {
+            "uid": "a83e62b8-d4d9-45f8-854c-7a39324c3f4a",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-e/Euro%20Demo%2027%20%28Europe%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Euro Demo 27",
+          "description": "",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783804799782
+        },
+        {
+          "props": {
+            "uid": "a3100ba9-ea50-4d68-a2f3-2071962f017a",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-k/Kingsley%27s%20Adventure%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%2CNl%2CSv%2CNo%2CDa%2CFi%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Kingsley's Adventure",
+          "description": "Kingsley's Adventure is a 3D Action/Adventure game for the PlayStation in a similar vein as The Legend of Zelda. In the game, you play an orphaned fox called Kingsley who was adopted by the king and queen of the Fruit Kingdom. For the most part of his life he, lived in the Carrot Castle where he was being tutored by an wise badger into the ways of a warrior and true knight.\n\nWhen a former cook from the castle is fired after being accused of food poisoning, he takes a turn for the worse. He steals the queen's spellbook and enchants the king's soldiers so he can take over the castle and thus control of the Fruit Kingdom. Now it is up to the player as Kingsley to save the day. But before you can really save the day, the young Kingsley will have to prove his valor and honor as a knight.\n\nKingsley can collect items, talk to the inhabitants of the Fruit Kingdom and fight enemies with various weapons such as a sword, axe, knife and crossbow. He will have to dodge cannonballs, crushing blocks and buzzing saws. Activate switches and open locks, jump over dangerous terrain and collect power-ups and items.\n\nWin the trust of villagers in the kingdom by helping them solving their troubles and clearing dungeons. Find a way into fortresses to defeat the dark knights in order to restore peace to the kingdom.",
+          "thumbnail": "",
+          "background": "",
+          "added": 1783805026634
         }
       ],
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png",
+      "thumbnail": "https://i.blogs.es/434743/psx/840_560.png",
       "background": "https://www.gamebyte.com/wp-content/uploads/2018/01/ps1.jpg",
       "backgroundPixelated": true
     },
