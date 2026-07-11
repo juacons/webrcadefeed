@@ -602,9 +602,57 @@
           "thumbnail": "https://i.ytimg.com/vi/rH9rbzjG9qI/maxresdefault.jpg",
           "background": "https://i.ytimg.com/vi/9sL77YETmn8/maxresdefault.jpg",
           "added": 1743113732590
+        },
+        {
+          "props": {
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Speed%20Freaks%20%28Europe%29.chd"
+            ],
+            "sbi": [],
+            "uid": "e5c1315d-8934-4129-8195-46cbc761c767",
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Speed Freaks",
+          "description": "",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Speed%20Freaks%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Speed%20Freaks%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783799812322
+        },
+        {
+          "props": {
+            "uid": "35047bfd-9ec2-4ee5-bdb2-7b23957f132a",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Spider-Man%20%28Spain%29.chd"
+            ],
+            "skipBios": true
+          },
+          "type": "psx",
+          "title": "Spider-Man",
+          "description": "Spider-Man is the first 3D game to star the popular web-slinger.  It is loosely based on Spider-Man: The Animated Series and Spider-Man Unlimited and features some of the voice cast from each and similar character designs.\n\nPeter Parker is attending a demonstration of the reformed Dr. Otto Octavius's new invention when an imposter Spider-Man steals the device.  Spider-Man must work to clear his name and uncover the sinister motives behind the device's theft.\n\nThis game features appearances not only by most major Spider-Man characters, but cameos by numerous other characters from the Marvel Universe, such as the Human Torch, Punisher, Daredevil and Captain America.\n\nSpider-Man's webs are greatly emphasized.  He can use them both for navigational purposes, like swinging or ziplining, and for offensive and defensive combat, such as tying up a villain, coating his fists with web for extra oomph, or building a protective shield.  His web supply is limited though and he must find new cartridges or risk running out.  The wall-crawling powers are also prominently features.  Spider-Man can cling to any wall or ceiling.  This is used for basic environmental navigation and for stealth as there are many sequences where you crawl over the heads of unsuspecting thugs, or drop down and catch them off-guard.\n\nCombat is based around Spider-Man's ability to jump, kick, punch and web.  By combining these with direction and in various combinations, Spider-Man is able to throw objects such as furniture, hurl web balls, yank enemies into melee range and follow up with a flurry of hits, among other things.  There are a number of boss-battles as well, all of which are puzzle-based.\n\nMissions vary from the fairly common fight-your way-to-the-goal or find-the-key-that-unlocks-the-door types to races to catch some or evade them or just trying to avoid the police.\n\nThere are several side goals in addition the main mission including multiple unlockable Spider-Man costumes and numerous hidden comic book covers to find.",
+          "thumbnail": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Titles/resized/Spider-Man%20(Europe).png",
+          "background": "https://raw.githubusercontent.com/webrcade-assets/webrcade-assets-psx-images/master/Named_Snaps/output/Spider-Man%20(Europe).png",
+          "backgroundPixelated": true,
+          "added": 1783799858793
+        },
+        {
+          "props": {
+            "uid": "6035cb4b-9f26-4e9d-9bb1-29dd4bba47da",
+            "discs": [
+              "https://archive.org/download/psx-chd-roms-s/Star%20Wars%20-%20Episodio%20I%20-%20La%20Amenaza%20Fantasma%20%28Spain%29.chd"
+            ]
+          },
+          "type": "psx",
+          "title": "Star Wars - Episodio I - La Amenaza Fantasma",
+          "description": "",
+          "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKMIk0e6U2Pxyo5sPvduhv4LPxbAU3BhhNHSHp9vQBLS0jjlP7FRLEdrYciO4JFAV_91hL8bPe15-Y0SWEmCDVsT9gh0yihsiC7FlkuuSE2SmLAtcehv5gbQTkqgypzaOZk6gJAYWFcstW/s1600/starwarsepisodiolps1.png",
+          "background": "https://pics.filmaffinity.com/star_wars_episode_i_the_phantom_menace_videogame-295483002-large.jpg",
+          "backgroundPixelated": true,
+          "added": 1783800047574
         }
       ],
-      "thumbnail": "https://th.bing.com/th/id/R.71b0a304037f2d9b15b20c55a2c3fbe1?rik=ro4%2fqoMnEMZNbg&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f9%2f95%2fPSX-Console-wController.png&ehk=yqgamXmFiFgrfD0jwDtcr4oabbTaYugG2Ji1Hsr58Xo%3d&risl=1&pid=ImgRaw&r=0",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Playstation_logo_colour.svg/2560px-Playstation_logo_colour.svg.png",
       "background": "https://www.gamebyte.com/wp-content/uploads/2018/01/ps1.jpg",
       "backgroundPixelated": true
     },
